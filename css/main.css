@@ -40,6 +40,10 @@ h2 .indent-grid {
   text-align: left;
 }
 
+.intro-case-txt {
+  max-width: 42em;
+}
+
 .lang li {
   border-bottom: 1px solid #D8D3AD;
 }
@@ -146,7 +150,8 @@ h2 .indent-grid {
 }
 
 .case-1-flow-1-section,
-.case-1-flow-3-section {
+.case-1-flow-3-section,
+.case-1-concept-2-section {
   background-color: #363636;
 }
 
