@@ -46,6 +46,9 @@ h2 .indent-grid {
 
 .lang li {
   border-bottom: 1px solid #D8D3AD;
+  transition: all 200ms linear;
+  -web-transition: all linear 200ms;
+  -moz-transition: all linear 200ms;
 }
 
 .lang li:hover {
@@ -58,13 +61,23 @@ h2 .indent-grid {
   text-align: left;
 }
 
+.social-media,
 .social-nav,
 .nav-bar {
   border-bottom: 1px solid transparent;
+  transition: all 200ms linear;
+  -web-transition: all linear 200ms;
+  -moz-transition: all linear 200ms;
+}
+
+.mail-to {
+  display: inline-block;
+  transition: all 200ms linear;
 }
 
 .social-nav:hover,
-.nav-bar:hover {
+.nav-bar:hover,
+.mail-to:hover {
   border-bottom: 1px solid #DA3363;
 }
 
@@ -76,9 +89,11 @@ h2 .indent-grid {
   border: solid #D8D3AD;
   border-width: 0 3px 3px 0;
   display: inline-block;
-  padding: .6em;
+  padding: .3em;
   transform: rotate(45deg);
-  transition: all 10s linear;
+  transition: all 100ms linear;
+  -web-transition: all linear 100ms;
+  -moz-transition: all linear 100ms;
 }
 
 #arrow:hover{
@@ -213,6 +228,10 @@ h2 .indent-grid {
   .img-case-display {
     width: 30%;
   }
+  .social-media {
+    text-align: right;
+  }
+
 
 }
 
