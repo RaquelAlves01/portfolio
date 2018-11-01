@@ -1,0 +1,19 @@
+<section class="about-section island-2">
+  <div class="grid">
+    <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ]">
+      <h2 class="title-box">
+        <em class="indent-grid block pink">{{include.word1}}<span class="white">.</span></em>
+        <em class="block">{{include.word2}}<span class="pink">.</span></em>
+        <em class="indent-grid block pink">{{include.word3}}<span class="white">.</span></em>
+        {% if include.word4 %}
+        <em class="block">{{include.word4}}<span class="pink">.</span></em>
+        {% endif %}
+      </h2>
+    </div>
+    <div class="unit [ unit-hidden-xs-1 s-1-2 m-2-3 l-2-3 xl-1-3 ] pad-t-2"><!-- empty unit for grid --></div>
+    <div class="unit [ xs-1 s-1-2 m-1-3 l-1-3 xl-1-3 ] pad-t push-l push-2">
+      <p class="push-0">{{include.paragraph}} The art of design is everywhere—anyone can design, but not many get to explain the idea of their design. Good, functional design is where visual aesthetics and usability cross paths</p>
+    </div>
+  </div>
+
+</section>
