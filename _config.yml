@@ -1,0 +1,8 @@
+baseurl: /portfolio
+exclude: ['README.md']
+permalink: pretty
+
+collections:
+  case-study:
+    output: true
+    permalink: /case-study/:path/
