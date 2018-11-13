@@ -10,11 +10,14 @@
         {% endif %}
       </h2>
     </div>
-    <div class="unit [ unit-hidden-xs-1 s-1-2 m-2-3 l-2-3 xl-1-3 ] pad-t-2"><!-- empty unit for grid --></div>
-    <div class="unit [ xs-1 s-1-2 m-1-3 l-1-3 xl-1-3 ] pad-t push-l push-2">
-      <p class="push-0">{{include.paragraph}}</p>
+    <div class="unit [ unit-hidden-xs-1 s-1-3 m-1-3 l-1-2 xl-1-2 ] pad-t-2"><!-- empty unit for grid --></div>
+    <div class="unit [ xs-1 s-2-3 m-2-3 l-1-2 xl-1-2 ] pad-t max-width">
+      <p class="push-1-2">{{include.paragraph}}</p>
       {% if include.paragraph2 %}
-      <p class="push-0">{{include.paragraph2}}</p>
+      <p class="push-1-2">{{include.paragraph2}}</p>
+      {% endif %}
+      {% if include.paragraph3 %}
+      <p class="push-0">{{include.paragraph3}}</p>
       {% endif %}
       {% if include.alink %}
         <a class="link-box mail-to" href="mailto:@hello@raquelaves.ca">hello@raquelalves.ca</a>
