@@ -1,0 +1,32 @@
+.social-media,
+.copyright,
+.lang {
+  text-align: left;
+}
+
+.social-media,
+.social-nav,
+.nav-bar {
+  border-bottom: 1px solid transparent;
+  transition: all 200ms linear;
+  -web-transition: all linear 200ms;
+  -moz-transition: all linear 200ms;
+}
+
+.mail-to {
+  display: inline-block;
+  transition: all 200ms linear;
+}
+
+.social-nav:hover,
+.nav-bar:hover,
+.mail-to:hover {
+  border-bottom: 1px solid #DA3363;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .social-media {
+    text-align: right;
+  }
+}

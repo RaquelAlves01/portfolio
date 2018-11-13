@@ -1,0 +1,148 @@
+/* caseBackground img */
+  /* caseOne */
+.bg-div-img-01-case-1 {
+  background-image: url('../images/computer-screen.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 60vh;
+}
+
+.bg-div-img-02-case-1 {
+background-image: url('../images/cloth.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+.bg-div-img-03-case-1 {
+background-image: url('../images/stationary.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+.bg-div-img-04-case-1 {
+background-image: url('../images/computer-screen.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+
+/* caseTwo */
+.bg-div-img-01-case-2 {
+background-image: url('../images/watch.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 80vh;
+}
+
+.bg-div-img-02-case-2 {
+background-image: url('../images/camera.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 50vh;
+}
+
+.bg-div-img-03-case-2 {
+background-image: url('../images/cloth.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 50vh;
+}
+
+.bg-div-img-04-case-2 {
+background-image: url('../images/computer-screen.jpg');
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+background-attachment: fixed;
+height: 50vh;
+}
+
+/* caseThree */
+.bg-div-img-01-case-3 {
+background-image: url('../images/watch.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+.bg-div-img-02-case-3 {
+background-image: url('../images/cloth.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+.bg-div-img-03-case-3 {
+background-image: url('../images/stationary.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+.bg-div-img-04-case-3 {
+background-image: url('../images/computer-screen.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 60vh;
+}
+
+/* caseFour */
+.bg-div-img-01-case-4 {
+background-image: url('../images/camera.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 100vh;
+}
+
+.bg-div-img-02-case-4 {
+background-image: url('../images/watch.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 100vh;
+}
+
+.bg-div-img-03-case-4 {
+background-image: url('../images/stationary.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 100vh;
+}
+
+.bg-div-img-04-case-4 {
+background-image: url('../images/computer-screen.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+height: 100vh;
+}
