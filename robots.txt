@@ -1,0 +1,6 @@
+# www.raquelalves.ca
+
+Sitemap: https://raquelalves.ca/sitemap.xml
+
+User-Agent: *
+Disallow: images
