@@ -4,55 +4,23 @@ layout: default
 
   <main class="" role="main" id="main" tabindex="0">
 
-  <section class="d-section island-2">
-    <div class="grid pad-t-2 pad-b-2">
-      <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ]">
-        <h2 class="title-box">
-          <em class="indent-grid block pink">Iterate<span class="white">.</span></em>
-          <em class="block">Prototype<span class="pink">.</span></em>
-          <em class="indent-grid block pink">Repeat<span class="white">.</span></em>
-        </h2>
-      </div>
-      <div class="unit [ unit-hidden-xs-1 s-1-2 m-2-3 l-2-3 xl-1-3 ] pad-t-2"><!-- empty unit for grid --></div>
-      <div class="unit [ xs-1 s-1-2 m-1-3 l-1-3 xl-1-3 ] pad-t push-l push-2">
-        <p class="push-0">The art of design is everywhere—anyone can design, but not many get to explain the concept of their design. Good, functional design is where aesthetics and usability cross paths</p>
-      </div>
-      <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] text-center pad-t-2">
+  {% include
+    header-section.html
+    word1="Iteration"
+    word2="Prototype"
+    word3="Repeat"
+    paragraph="The art of design is everywhere—anyone can design, but not many get to explain the concept of their design. Good, functional design is where aesthetics and usability cross paths"
+     %}
+
+      <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] text-center pad-t-2 pad-b-2">
         <a id="arrow" href="#case-section"></a>
       </div>
-    </div>
-
-  </section>
 
   <section class="" id="case-section">
-    <a href="case-1.html">
-      <div class="case-1">
-        <div class="relative">
-          <div class="grid">
-            <div class="unit [ xs-1 s-1 m-1-2 l-1-2 xl-1-2 ] bg-img-case-1"><!--background colour--></div>
-            <div class="unit [ xs-1 s-1 m-1-2 l-1-2 xl-1-2 ] bg-solid-case-1"><!--solid colour--></div>
-          </div>
-          <div class="absolute text-center case-display-container">
-            <img class="case-display-img" src="images/android-phone.png" alt="">
-          </div>
-        </div>
-      </a>
-    </div>
-
-    <div class="case-1">
-      <a href="case-2.html">
-        <div class="relative">
-          <div class="grid">
-            <div class="unit [ xs-1 s-1 m-1-2 l-1-2 xl-1-2 ] bg-solid-case-1"><!--solid colour--></div>
-            <div class="unit [ xs-1 s-1 m-1-2 l-1-2 xl-1-2 ] bg-img-case-1"><!--background colour--></div>
-
-          </div>
-          <div class="absolute text-center case-display-container">
-            <img class="case-display-img" src="images/android-phone.png" alt="">
-          </div>
-        </div>
-        </a>
-      </div>
+    {% for case in site.case-study %}
+      {% assign evenOrOdd = forloop.index|modulo:2 %}
+      {% include case-selection-section.html case=case evenOrOdd=evenOrOdd %}
+    {% endfor %}
   </section>
 
 </main>
