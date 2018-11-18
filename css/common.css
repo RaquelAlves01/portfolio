@@ -18,6 +18,10 @@
   color :#292929;
 }
 
+.embed-4by2 {
+  padding-top: 35%;
+}
+
 .max-width {
   min-width: 11em;
   max-width: 30em;
@@ -47,11 +51,11 @@ h1 span {
 }
 
 h2 {
-  -web-transition: all linear .4s ease;
+  -webkit-transition: all linear .4s ease;
   -moz-transition: all linear .4s ease;
   transition: all linear .4s ease;
   letter-spacing: .0125em;
-  font-size: 4em;
+  font-size: 3.5em;
   line-height: .625;
 }
 
@@ -61,6 +65,18 @@ h2 .indent-grid {
 
 main {
   min-height: calc(100vh - 17.2375rem);
+}
+
+a:focus,
+[tabindex="0"]:focus,
+details:focus,
+summary:focus,
+input:focus,
+textarea:focus,
+button:focus,
+select:focus {
+  outline-color: #1B769E;
+  outline-offset: 0;
 }
 
 @media only screen and (min-width: 38em) {

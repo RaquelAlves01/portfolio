@@ -19,7 +19,7 @@
   text-align: left;
 }
 
-.nav-current {
+.nav-bar.nav-current {
   border-bottom: 1px solid #DA3363;
 }
 @media only screen and (min-width: 38em) {

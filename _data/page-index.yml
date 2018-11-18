@@ -1,0 +1,30 @@
+en:
+  homepage: "/en/"
+  work: "/en/work/"
+  about: "/en/about/"
+  contact: "/en/contact/"
+  violinin: "/en/case-study/violinin/"
+  makinthru: "/en/case-study/makin-thru/"
+  parkbot: "/en/case-study/parkbot/"
+  slide: "/en/case-study/slide/"
+
+
+es:
+  homepage: "/es/"
+  work: "/es/trabajos/"
+  about: "/es/sobre-mi/"
+  contact: "/es/contato/"
+  violinin: "/es/estudo/violinin/"
+  makinthru: "/es/estudo/makin-thru/"
+  parkbot: "/es/estudo/parkbot/"
+  slide: "/es/estudo/slide/"
+
+pt:
+  homepage: "/pt/"
+  work: "/pt/trabalhos/"
+  about: "/pt/sobre-mim/"
+  contact: "/pt/contato/"
+  violinin: "/pt/caso/violinin/"
+  makinthru: "/pt/caso/makin-thru/"
+  parkbot: "/pt/caso/parkbot/"
+  slide: "/pt/caso/slide/"

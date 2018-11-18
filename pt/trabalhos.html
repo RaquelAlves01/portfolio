@@ -1,0 +1,30 @@
+---
+layout: default
+title: Trabalhos
+meta:
+lang: pt
+page: work
+---
+
+  <main class="" role="main" id="main" tabindex="0">
+
+  {% include
+    header-section.html
+    word1="Iteração"
+    word2="Protótipo"
+    word3="Repetir"
+    paragraph="a arte do desenho está em toda parte-qualquer um pode projetar um conceito, mas muitos não tem a oportunidade de explicar suas ideias. Um bom desenho funcional é um aonde a estética e a usabilidade se cruzam"
+     %}
+
+      <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] text-center pad-t-2 pad-b-2">
+        <a id="arrow" href="#case-section"></a>
+      </div>
+
+  <section id="case-section">
+    {% for case in site.case-study %}
+      {% assign evenOrOdd = forloop.index|modulo:2 %}
+      {% include case-selection-section.html case=case evenOrOdd=evenOrOdd %}
+    {% endfor %}
+  </section>
+
+</main>

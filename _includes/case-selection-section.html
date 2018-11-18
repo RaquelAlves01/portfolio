@@ -1,8 +1,8 @@
 <div class="case-container">
   <a href="{{include.case.url}}">
     <div class="{{include.case.title}}">
-      <div class="relative">
-        <h3 class="absolute pin-c zindex-3 tenamega black intro-case">{{include.case.title}}</h3>
+      <div>
+        <h3 class="absolute pin-c zindex-3 tenamega not-bold black intro-case">{{include.case.title}}</h3>
         <div class="grid">
           {% if include.evenOrOdd == 0 %}
           <div class="unit [ xs-1 s-1 m-1-2 l-1-2 xl-1-2 ] {{include.case.imgBg}}"><!--background colour--></div>
@@ -13,8 +13,8 @@
 
           {% endif %}
         </div>
-        <div class="absolute text-center case-display-container">
-          <img class="case-display-img" src="{{site.baseurl}}/images/{{include.case.image}}" alt="">
+        <div class="absolute pin-bc text-center case-display-container">
+          <img class="{% if include.case.type == 'landscape' %} case-landscape-img {% else %}case-display-img{% endif %}" src="{{site.baseurl}}/images/{{include.case.image}}" alt="">
         </div>
       </div>
     </div>

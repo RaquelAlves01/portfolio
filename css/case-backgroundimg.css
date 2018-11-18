@@ -1,23 +1,23 @@
 /* caseBackground img */
   /* caseOne */
 .bg-div-img-01-case-1 {
-  background-image: url('../images/computer-screen.jpg');
+  background-image: url('../images/find-mycar.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
-  height: 60vh;
+  height: 80vh;
 }
 
 .bg-div-img-02-case-1 {
-background-image: url('../images/cloth.jpg');
+background-image: url('../images/assignment.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 60vh;
+height: 80vh;
 }
-
+/*
 .bg-div-img-03-case-1 {
 background-image: url('../images/stationary.jpg');
 background-repeat: no-repeat;
@@ -34,12 +34,12 @@ background-position: center center;
 background-size: cover;
 background-attachment: fixed;
 height: 60vh;
-}
+} */
 
 
 /* caseTwo */
 .bg-div-img-01-case-2 {
-background-image: url('../images/watch.jpg');
+background-image: url('../images/making-thru-2.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
@@ -48,101 +48,101 @@ height: 80vh;
 }
 
 .bg-div-img-02-case-2 {
-background-image: url('../images/camera.jpg');
+background-image: url('../images/making-thru-4.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 50vh;
+height: 80vh;
 }
 
 .bg-div-img-03-case-2 {
-background-image: url('../images/cloth.jpg');
+background-image: url('../images/making-thru-3.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 50vh;
+height: 80vh;
 }
 
 .bg-div-img-04-case-2 {
-background-image: url('../images/computer-screen.jpg');
+background-image: url('../images/making-thru.jpg');
 background-repeat: no-repeat;
 background-position: top center;
 background-size: cover;
 background-attachment: fixed;
-height: 50vh;
+height: 80vh;
 }
 
 /* caseThree */
 .bg-div-img-01-case-3 {
-background-image: url('../images/watch.jpg');
+background-image: url('../images/violinin-1.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 60vh;
+height: 80vh;
 }
 .bg-div-img-02-case-3 {
-background-image: url('../images/cloth.jpg');
+background-image: url('../images/violinin.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 60vh;
+height: 80vh;
 }
 
 .bg-div-img-03-case-3 {
-background-image: url('../images/stationary.jpg');
+background-image: url('../images/violinin-3.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 60vh;
+height: 80vh;
 }
 
 .bg-div-img-04-case-3 {
-background-image: url('../images/computer-screen.jpg');
+background-image: url('../images/violinin-2.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 60vh;
+height: 80vh;
 }
 
 /* caseFour */
 .bg-div-img-01-case-4 {
-background-image: url('../images/camera.jpg');
+background-image: url('../images/slide-station.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 100vh;
+height: 80vh;
 }
 
 .bg-div-img-02-case-4 {
-background-image: url('../images/watch.jpg');
+background-image: url('../images/slide.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 100vh;
+height: 60vh;
 }
 
 .bg-div-img-03-case-4 {
-background-image: url('../images/stationary.jpg');
+background-image: url('../images/slide-stationary.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
 background-attachment: fixed;
-height: 100vh;
+height: 60vh;
 }
 
 .bg-div-img-04-case-4 {
-background-image: url('../images/computer-screen.jpg');
+background-image: url('../images/slide-entrance.jpg');
 background-repeat: no-repeat;
-background-position: center center;
+background-position: top;
 background-size: cover;
 background-attachment: fixed;
-height: 100vh;
+height: 60vh;
 }

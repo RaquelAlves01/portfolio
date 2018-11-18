@@ -1,0 +1,30 @@
+---
+layout: default
+title: Work
+meta:
+lang: en
+page: work
+---
+
+  <main class="" role="main" id="main" tabindex="0">
+
+  {% include
+    header-section.html
+    word1="Iteration"
+    word2="Prototype"
+    word3="Repeat"
+    paragraph="The art of design is everywhere—anyone can design, but not many get to explain the concept of their design. Good, functional design is where aesthetics and usability cross paths"
+     %}
+
+      <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] text-center pad-t-2 pad-b-2">
+        <a id="arrow" href="#case-section"></a>
+      </div>
+
+  <section class="" id="case-section">
+    {% for case in site.case-study %}
+      {% assign evenOrOdd = forloop.index|modulo:2 %}
+      {% include case-selection-section.html case=case evenOrOdd=evenOrOdd %}
+    {% endfor %}
+  </section>
+
+</main>

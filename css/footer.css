@@ -6,7 +6,8 @@
 
 .social-media,
 .social-nav,
-.nav-bar {
+.nav-bar,
+.link {
   border-bottom: 1px solid transparent;
   transition: all 200ms linear;
   -web-transition: all linear 200ms;
@@ -20,7 +21,8 @@
 
 .social-nav:hover,
 .nav-bar:hover,
-.mail-to:hover {
+.mail-to:hover
+.link:hover {
   border-bottom: 1px solid #DA3363;
 }
 

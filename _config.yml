@@ -5,4 +5,10 @@ permalink: pretty
 collections:
   case-study:
     output: true
-    permalink: /case-study/:path/
+    permalink: /en/case-study/:path/
+  case-study_es:
+    output: true
+    permalink: /es/estudo/:path/
+  case-study_pt:
+    output: true
+    permalink: /pt/caso/:path/

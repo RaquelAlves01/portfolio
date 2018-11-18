@@ -1,44 +1,49 @@
 ---
 layout: case-study
-title: Parkbot
+title: parkbot
 meta:
-image: android-phone.png
-imageCaseOne: android-phone.png
+lang: en
+page: parkbot
+type: mobile
+image: parkbot.png
 
 caseImg: bg-div-img-01-case-1
 caseImg02: bg-div-img-02-case-1
 caseImg03: bg-div-img-03-case-1
 caseImg04: bg-div-img-04-case-1
 
-caseIntro: "case intro"
-conceptTitle: "concept of the app"
-conceptDescription: "concept description"
-ideationProcess: "ideation process"
-aestheticsDescription: "aesthetics process"
-systemFlow: "System Flow flow"
-colourDescription: "colour pallete"
-typeDescription: "typography choices"
-iconDescription: "iconography design"
+caseIntro: "ParkBot is an app that sorts, plans and assigns parking spots daily within user time frame needs and accessibility options efficiently so all users to get a spot"
+conceptTitle: park in no time
+conceptDescription: "App created to help regular parkers find a spot efficiently to help restrict waiting time and delays"
+ideationProcess: "Parkbot shortens your parking searching time. It provides an automated parking assignment as soon as you are spotted near a parking area. It deals with the parking pay, along with other features designed specifically upgrade your experience"
+aestheticsDescription: "Parkbot was designed in a collaborative team to help better the lives of car owners with restricted time. Parkbot the bot was also created as a way to humanize and be interactive, as an effort to connect in a personal manner with the users"
+systemFlow: "Car owners needed a way to get to work faster without having to search or wait for a parking spot when going to work or school"
+colourDescription: "Parkbot's colour pallete was sourced by Google Material. These colours where carefully selected in order to represent elegance that users come to appreciate when dealing with a new app"
+typeDescription: "Roboto is the standard typeface for Android and it is the perfect choice because of it's legibility at any size"
+iconDescription: "An elegant and clean approach was used when creating the app's iconography. The icons where designed to be easily recognizable and intuitive even to first time users"
 usabilitySection: "usability experience and task flow"
 usabilityDescription: "usability content inserted here"
 
-usabilityTitle: "automated parking assignment"
-usabilityContent: "Content text that explain task"
-usabilityImage: android-phone.png
-usabilityTitle-02: "accessibility friendly"
-usabilityContent-02: "makin thru' is paired, and accessible through your watch."
-usabilityImage-02: android-phone.png
-usabilityTitle-03: "parking pass update"
-usabilityContent-03: "This is the content 03"
-usabilityImage-03: android-phone.png
-usabilityTitle-04: requesting assistance
-usabilityContent-04: "This is the content 04"
-usabilityImage-04: android-phone.png
+usabilityTitle: "auto parking"
+usabilityContent: "Parkbot will automatically select a spot and let you know where you can find a parking spot nearest you"
+usabilityImage: parkbot-2.jpg
+usabilityTitle-02: "accessibility first"
+usabilityContent-02: "Submit your accessible parking permit to our system. Parkbot will let you know exactly where the nearest accessibility parking can be found"
+usabilityImage-02: parkbot-1.jpg
+usabilityTitle-03: one step update
+usabilityContent-03: "Pay exactly for how long you’re there for. If you choose weekly, semesterly or annual, it is an automatic payment connected to Google Pay. Never have to worry about finding the parking meter ever again"
+usabilityImage-03: parkbot-3.jpg
+usabilityTitle-04: get assistance
+usabilityContent-04: "Parkbot is here to help. Wherever you are, what ever the issue may be, Parkbot is ready to assist you. Parkbot will remember where you parked your car so you don't have to"
+usabilityImage-04: parkbot-4.jpg
 
 imgBg: "bg-img-case-1"
 solidBg: "bg-solid-case-1"
-imgBannerSec: "android-phone.png"
-imgSec: "placeholder-4by3.svg"
+imgSec: "parkbot-process.svg"
+imgSecTwo: "parkbot-flow.svg"
+imgSecColours: "parkbot-colour.svg"
+imgSecType: "parkbot-type.svg"
+imgSecIcons: "parkbot-icons.svg"
 
 conceptClass: con-section-01
 aestheticsClass: aes-section-01

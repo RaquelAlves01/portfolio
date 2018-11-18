@@ -1,17 +1,25 @@
 ---
-layout: default
-title: Homepage
 ---
 
-  <main class="pad-t-1-2 gutter-2" role="main" id="main" tabindex="0">
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting to English</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="0; url={{site.baseurl}}/en/">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="https://raquelalves.ca/en/">
 
-    {% include
-      header-section.html
-      word1="Design"
-      word2="Code"
-      word3="Repeat"
-      paragraph="Graphic designer that loves code and learning lorem ipsum, Graphic designer that loves code and learning lorem ipsum"
-    %}
+</head>
+<body>
+  <h1>Rederecting page to English</h1>
 
+  <a href="{{site.baseurl}}/en/">Click me if you are not redirected</a>
 
-  </main>
+  <script>window.location="{{site.baseurl}}/en/"</script>
+
+</body>
+</html>
+
+<!-- TO DO LIST: After launching website redirect in CLOUDFLARE -->
