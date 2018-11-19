@@ -22,7 +22,7 @@ colourDescription: "To serve the purpose of this app of attracting a younger aud
 typeDescription: "The typeface used in the design is the Apple default font San Francisco. For headings the font weight used is SF Pro Bold, and for the body copy and other text use SF Pro Display Regular"
 iconDescription: "A simplistic and minimalist approach was used when creating the app's iconography for the purpose of being easy to recognized by someone who's never had any previous experience with the app to honour the target audience's age range"
 usabilitySection: "usability experience and task flow"
-usabilityDescription: "This has to do with learning content and/or the hands on part of the app, being the song section where the kids play their violin to a virtual music sheet tracker or the most fun part of the app: the game"
+usabilityDescription: " Violinin’s effort and focus is to shape children into becoming the next generation Bach. This app features hands on activities,  a music playlist  with beginners to advanced music tracker for kids  to play along or the most fun part of the app: the quizzes game"
 
 usabilityLink: https://xd.adobe.com/view/257074db-0fe8-4aa4-b2c1-c91fec093985/
 usabilityLinkTitle: See how app works

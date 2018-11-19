@@ -22,7 +22,7 @@ colourDescription: Making thru’s colour palette is sourced from apple's materi
 typeDescription: The typeface used in the design is the Apple default font San Francisco. For headings the font weight used is SF Pro Bold, and for the body copy and other text found SF Pro Display Regular is used
 iconDescription: "unlike the other visual elements of this app, making thru carries it's own authentic iconography. these icons were designed to be equally structured and consistent with the rest of the app's design"
 usabilitySection: "usability experience and task flow"
-usabilityDescription: "This app was designed to be accessible be it in popular areas or remote areas. "
+usabilityDescription: "This app was designed to be accessible be it in popular areas or remote areas. This app was created to help assist users determine locations and guide them through to their final destination"
 
 usabilityTitle: "exploring your area"
 usabilityContent: "Checkout the hotspots around your area. Discover local stores, restaurants, events, places that aligns with your interest"

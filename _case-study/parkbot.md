@@ -22,7 +22,7 @@ colourDescription: "Parkbot's colour pallete was sourced by Google Material. The
 typeDescription: "Roboto is the standard typeface for Android and it is the perfect choice because of it's legibility at any size"
 iconDescription: "An elegant and clean approach was used when creating the app's iconography. The icons where designed to be easily recognizable and intuitive even to first time users"
 usabilitySection: "usability experience and task flow"
-usabilityDescription: "usability content inserted here"
+usabilityDescription: "Parkbot was created as an effort to help assist and guide users to start their day with one less thing to worry about. With automated parking assignment, interactive assistance and one tap parking pay"
 
 usabilityTitle: "auto parking"
 usabilityContent: "Parkbot will automatically select a spot and let you know where you can find a parking spot nearest you"
