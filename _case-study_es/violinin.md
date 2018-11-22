@@ -13,38 +13,38 @@ caseImg03: bg-div-img-03-case-3
 caseImg04: bg-div-img-04-case-3
 
 caseIntro: "Violinin es una aplicación intuitiva de aprendizaje que fue desarrollada para ayudar a tus niños a involucrarse con música y aprender a tocar el violín desde principiantes a avanzados"
-conceptTitle: "concept of the app"
-conceptDescription: "Violinin is the app that will have your child become true master with the violin. With interactive lectures on what the parts on the violin are, to the notes that are played on the violin. This app allows your child to learn in the comfort of your home how to play songs from beginners to advanced without any professional supervision. With fun quizzes to test your child's knowledge on the content manner"
-ideationProcessTitle: "ideation and process"
-ideationProcess: "Violinin' was developed to help children get involved with music. In this modern age, children are getting access to digital screens sooner and Violinin' offers the learning tools for them thorough lessons about the crucial parts of the instrument and also, the notes and sounds made by the chords of the violin"
-aestheticsDescriptionTitle: "aesthetics and visual design"
-aestheticsDescription: "The uniformity in the pattern in which the colours were placed and carried throughout the app is clear and cut. The goal of such pattern is for the children to visually remember, through the use of colour, the activities found on the app"
-systemFlowTitle: "system and flow"
-systemFlow: "With interactive lectures on what the parts on the violin are, to the notes that are played on the violin. This app allows your child to learn in the comfort of your own home how to play songs from beginners to advanced without any professional supervision. With fun quizzes to test your child's knowledge on the content manner"
-colourTitle: "colours"
-colourDescription: "To serve the purpose of this app of attracting a younger audience, targeting kids specifically; bright, vivid colours were chosen to call attract the age group. Creating a colour harmony that transmit playfulness, excite and engage children into the learning process"
-typeTitle: "typography"
-typeDescription: "The typeface used in the design is the Apple default font San Francisco. For headings the font weight used is SF Pro Bold, and for the body copy and other text use SF Pro Display Regular"
-iconTitle: "iconography"
-iconDescription: "A simplistic and minimalist approach was used when creating the app's iconography for the purpose of being easy to recognized by someone who's never had any previous experience with the app to honour the target audience's age range"
-usabilitySection: "usability experience and task flow"
-usabilityDescription: " Violinin’s effort and focus is to shape children into becoming the next generation Bach. This app features hands on activities,  a music playlist  with beginners to advanced music tracker for kids  to play along or the most fun part of the app: the quizzes game"
+conceptTitle: "concepto de la aplicación"
+conceptDescription: "Violinin es la aplicación que hará a tu niño volverse un experto en el violín. Con lecciones interactivas en las diferentes partes del violin y las notas que se tocan, esta aplicación permitirá a tu niño a aprender como tocar canciones de principiantes y más avanzadas sin supervisión profesional desde la comodidad de tu casa. Incluye examenes divertidos para probar el conocimiento de tu niño en lo que aprendió"
+ideationProcessTitle: "ideación y proceso"
+ideationProcess: "Violinin fue desarrollado para ayudar a los niños a involucrarse más con la música. En esta era moderna los niños tienen acceso a pantallas digitales de una edad más temprana y Violinin ofrece las herramientas para que puedan aprender mediante lecciones sobre las partes importantes del instrumento y las notas y sonidos producidos por las cuerdas del violín"
+aestheticsDescriptionTitle: "estética y diseño visual"
+aestheticsDescription: "La uniformidad en la forma en que los colores fueron colocados y llevados a lo largo de la aplicación es claro. La meta de dicho patrón es para que el niño recuerde visualmente las actividades encontradas en la aplicación mediante el uso del color"
+systemFlowTitle: "sistema y flujo"
+systemFlow: "Con lecciones interactivas en cuales son las partes del violín, y las notas que se tocan en el mismo, esta aplicación permite a tu niño aprender en la comodidad de su propia casa como tocar canciones de nivel principiante a avanzado sin supervisión profesional. Examenes divertidos prueban el conocimiento del niño en lo que se aprendió"
+colourTitle: "colores"
+colourDescription: "Para preservar el propósito de esta aplicación de atraer a una audiencia más jóven, específicamente teniendo a niños como el público objetivo; se escogeron colores radiantes y vívidos para atraer al grupo de edad. Se crea una harmonía de colores que transmiten alegría, que excita e invita a niños al proceso de aprendizaje"
+typeTitle: "tipografía"
+typeDescription: "La tipografia usada en el diseño es San Francisco, el que usa Apple por defecto. Para los títulos se usa el peso de letra SF Pro Bold y para el texto principal y para demás texto se usa SF Pro Display Regular  "
+iconTitle: "iconografía"
+iconDescription: "Se tomó un enfoque simplístico y minimalista al crear la iconografía de la aplicación con el propósito de ser fácil de reconocer para cualquiera sin previa experiencia con la aplicación, para honrar el grupo de edades del público objetivo"
+usabilitySection: "experiencia de usabilidad y flujo de tareas"
+usabilityDescription: "El enfoque y esfuerzo de Violinin es de moldar a niños para que se transformen en el Bach de la siguiente generación. Esta aplicación contiene actividades prácticas, una lista de música para principiantes, buscador de música avanzada para que los niños toquen junto y la parte más divertida, el juego de preguntas"
 
 usabilityLink: https://xd.adobe.com/view/257074db-0fe8-4aa4-b2c1-c91fec093985/
-usabilityLinkTitle: See how app works
+usabilityLinkTitle: Ver como funciona la aplicación
 usabilityLinkTwo: https://raquelalves01.github.io/violinin/
-usabilityLinkTitleTwo: Visit the website
+usabilityLinkTitleTwo: Visita la página de internet
 
-usabilityTitle: "learning your keys"
-usabilityContent: "Children will have access to comprehensive learning material and content with the help of Monsieur McCat to support their journey"
+usabilityTitle: "aprendiendo los tonos"
+usabilityContent: "Los niños tendrán acceso a material de aprendizaje comprensivo y contenido con la ayuda del Monsieur McCat para darles soporte en su jornada"
 usabilityImage: violinin1.jpg
-usabilityTitle-02: "mastering your notes"
-usabilityContent-02: "This feature will give a step by step tutorial on what note on the tracker sheet, and show them where they can find the the key on the violin. As they get confortable with the instrument, children will be able to play their own violin along with the song"
+usabilityTitle-02: "dominando las notas"
+usabilityContent-02: "Esta característica dará un tutorial paso a paso de las notas en la hoja de rastreo y mostrará cómo encontrarlas en el violín. Mientras se familiarizen con el instrumento, los niños podrán tocar su propio violín junto con la música"
 usabilityImage-02: violinin2.jpg
-usabilityTitle-03: "keep track of your progress"
-usabilityContent-03: "Children will have a way to keep track of their progress as they interact with the app. They will be able to track and compare their lowest to highest scores as a way to motivate them to keep getting better"
+usabilityTitle-03: "vea su progreso"
+usabilityContent-03: "Los niños tendrán una forma de ver su progreso mientras interactúan con la aplicación. Podrán ver y comparar sus puntajes más bajos y altos como una forma de motivarlos a mejorar"
 usabilityImage-03: violinin3.jpg
-usabilityTitle-04: "test your knowledge"
+usabilityTitle-04: "prueba su conocimiento"
 usabilityContent-04: "Los niños prodrán entonces medir su nuevo conocimiento de los que ya aprendieron con los materiales de la aplicación por medio de los examenes en forma de juego"
 usabilityImage-04: violinin4.jpg
 

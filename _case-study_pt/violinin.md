@@ -12,40 +12,40 @@ caseImg02: bg-div-img-02-case-3
 caseImg03: bg-div-img-03-case-3
 caseImg04: bg-div-img-04-case-3
 
-caseIntro: "Violinin' is an intuitive learning app that was developed to help your children engage with music and learn from beginners to advanced how to play the violin"
-conceptTitle: "concept of the app"
-conceptDescription: "Violinin is the app that will have your child become true master with the violin. With interactive lectures on what the parts on the violin are, to the notes that are played on the violin. This app allows your child to learn in the comfort of your home how to play songs from beginners to advanced without any professional supervision. With fun quizzes to test your child's knowledge on the content manner"
-ideationProcessTitle: "ideation and process"
-ideationProcess: "Violinin' was developed to help children get involved with music. In this modern age, children are getting access to digital screens sooner and Violinin' offers the learning tools for them thorough lessons about the crucial parts of the instrument and also, the notes and sounds made by the chords of the violin"
-aestheticsDescriptionTitle: "aesthetics and visual design"
-aestheticsDescription: "The uniformity in the pattern in which the colours were placed and carried throughout the app is clear and cut. The goal of such pattern is for the children to visually remember, through the use of colour, the activities found on the app"
-systemFlowTitle: "system and flow"
-systemFlow: "With interactive lectures on what the parts on the violin are, to the notes that are played on the violin. This app allows your child to learn in the comfort of your own home how to play songs from beginners to advanced without any professional supervision. With fun quizzes to test your child's knowledge on the content manner"
-colourTitle: "colours"
-colourDescription: "To serve the purpose of this app of attracting a younger audience, targeting kids specifically; bright, vivid colours were chosen to call attract the age group. Creating a colour harmony that transmit playfulness, excite and engage children into the learning process"
-typeTitle: "typography"
-typeDescription: "The typeface used in the design is the Apple default font San Francisco. For headings the font weight used is SF Pro Bold, and for the body copy and other text use SF Pro Display Regular"
-iconTitle: "iconography"
-iconDescription: "A simplistic and minimalist approach was used when creating the app's iconography for the purpose of being easy to recognized by someone who's never had any previous experience with the app to honour the target audience's age range"
-usabilitySection: "usability experience and task flow"
-usabilityDescription: " Violinin’s effort and focus is to shape children into becoming the next generation Bach. This app features hands on activities,  a music playlist  with beginners to advanced music tracker for kids  to play along or the most fun part of the app: the quizzes game"
+caseIntro: "Violinin é um aplicativo de aprendizado intuitivo que foi desenvolvido para ajudar seus filhos a se envolverem com a música e aprender de iniciantes a avançados como tocar violino"
+conceptTitle: "conceito do aplicativo"
+conceptDescription: "Violinin é o aplicativo que fará com que seu filho se torne mestre de verdade com o violino. Com palestras interativas sobre o que são as partes do violino, para as notas que são tocadas no violino. Este aplicativo permite que seu filho aprenda no conforto da sua casa como reproduzir músicas de iniciantes a avançados sem qualquer supervisão profissional. Com testes divertidos para testar o conhecimento do seu filho sobre a maneira de conteúdo"
+ideationProcessTitle: "ideação e processo"
+ideationProcess: "O violinin foi desenvolvido para ajudar as crianças a se envolverem com a música. Nesta idade moderna, as crianças estão tendo acesso a telas digitais mais cedo e Violinin oferece as ferramentas de aprendizagem para eles de lições completas sobre as partes cruciais do instrumento e também, as notas e sons feitos pelos acordes do violino"
+aestheticsDescriptionTitle: "estética e desenho visual"
+aestheticsDescription: "A uniformidade no padrão em que as cores foram colocadas e transportadas por todo o aplicativo é clara. O objetivo desse padrão é que as crianças se lembrem visualmente, através das differentes cores, das atividades encontradas no aplicativo"
+systemFlowTitle: "sistema e fluxo"
+systemFlow: "Com palestras interativas sobre o que as partes do violino são, para as notas que são tocadas no violino. Este aplicativo permite que seu filho aprenda no conforto da sua própria casa como reproduzir músicas de iniciantes a avançados sem qualquer supervisão profissional. Com testes divertidos para testar o conhecimento sobre a maneira de conteúdo do seu filho"
+colourTitle: "cores"
+colourDescription: "Para servir o propósito deste aplicativo de atrair um público mais jovem, segmentando crianças especificamente; cores brilhantes e vivas foram escolhidas para chamar a atenção dessa faixa etária. Criar uma harmonia de cores que transmita diversão, estimule e envolva as crianças no processo de aprendizagem"
+typeTitle: "tipografia"
+typeDescription: "O tipo de letra usado no design é a fonte padrão da Apple, San Francisco. Para títulos, o peso da fonte usada é SF Pro Bold, e para a cópia do corpo e outro texto, use SF Pro Display Regular"
+iconTitle: "iconografia"
+iconDescription: "Uma abordagem simplista e minimalista foi usada ao criar a iconografia do aplicativo com o objetivo de ser facilmente reconhecida por alguém que nunca teve experiência anterior com o aplicativo para honrar o público-alvo da faixa etária"
+usabilitySection: "experiência de usabilidade e fluxo de tarefas"
+usabilityDescription: "O esforço e o foco do violinin é moldar as crianças para se tornarem a próxima geração de Bach. Este aplicativo apresenta atividades práticas, uma lista de reprodução de músicas com iniciantes e um rastreador de música avançado para as crianças brincarem ou a parte mais divertida do aplicativo: o jogo de questionários"
 
 usabilityLink: https://xd.adobe.com/view/257074db-0fe8-4aa4-b2c1-c91fec093985/
-usabilityLinkTitle: See how app works
+usabilityLinkTitle: Veja como funciona o aplicativo
 usabilityLinkTwo: https://raquelalves01.github.io/violinin/
-usabilityLinkTitleTwo: Visit the website
+usabilityLinkTitleTwo: Visite o site
 
-usabilityTitle: "learning your keys"
-usabilityContent: "Children will have access to comprehensive learning material and content with the help of Monsieur McCat to support their journey"
+usabilityTitle: "aprendendo suas chaves"
+usabilityContent: "As crianças terão acesso a material didático abrangente e conteúdo com a ajuda de Monsieur McCat para apoiar sua jornada"
 usabilityImage: violinin1.jpg
-usabilityTitle-02: "mastering your notes"
-usabilityContent-02: "This feature will give a step by step tutorial on what note on the tracker sheet, and show them where they can find the the key on the violin. As they get confortable with the instrument, children will be able to play their own violin along with the song"
+usabilityTitle-02: "dominando as notas"
+usabilityContent-02: "Este recurso dará um tutorial passo a passo sobre as partituras e mostrará onde encontrar as notas no violino. À medida que se adaptam ao instrumento, as crianças poderão tocar seu próprio violino junto com a música"
 usabilityImage-02: violinin2.jpg
-usabilityTitle-03: "keep track of your progress"
-usabilityContent-03: "Children will have a way to keep track of their progress as they interact with the app. They will be able to track and compare their lowest to highest scores as a way to motivate them to keep getting better"
+usabilityTitle-03: "acompanhe seu progresso"
+usabilityContent-03: "As crianças terão uma maneira de acompanhar seu progresso enquanto interagem com o aplicativo. Eles poderão acompanhar e comparar as pontuações mais baixas às mais altas, como forma de motivá-los a continuar melhorando"
 usabilityImage-03: violinin3.jpg
-usabilityTitle-04: "test your knowledge"
-usabilityContent-04: "Kids will then be able to measure their new knowledge what they have learned with the app's materials with the embed game testing quizzes"
+usabilityTitle-04: "teste seu conhecimento"
+usabilityContent-04: "As crianças poderão, então, medir seus novos conhecimentos com o material que eles aprenderam com o material do questionario encontrado no aplicativo"
 usabilityImage-04: violinin4.jpg
 
 imgBg: "bg-img-case-3"
