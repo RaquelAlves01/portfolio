@@ -1,33 +1,43 @@
 ---
 layout: case-study
-title: SLiDE
+title: slide
 meta:
 lang: es
 page: slide
-image: android-phone.png
-imageCaseOne: android-phone.png
+type: landscape
+image: slide.png
 
 caseImg: bg-div-img-01-case-4
 caseImg02: bg-div-img-02-case-4
 caseImg03: bg-div-img-03-case-4
 caseImg04: bg-div-img-04-case-4
 
-caseIntro: "SLiDE case study intro"
-conceptTitle: "concept of the brand"
-conceptDescription: "slide–service learning in design &amp; engineering "
-ideationProcess: "ideation concept"
-aestheticsDescription: "aesthetics description for the brand"
-systemFlow: "System Flow flow"
-colourDescription: "slide's colour was inspired by. The primary colours of dark purple and different tints blue set a subdued and serious tone while the pink accent colour adds a sense of vibrancy and excitement."
-typeDescription: "slide's corporate typography is open source sans"
-iconDescription: "slide's website and other graphic elements consist of authentic iconography. these icons were designed to be consistent with the rest of the brand and tone of voice"
-usabilitySection: "brand structure and deliverables"
-usabilityDescription: "usability content inserted here"
+caseIntro: "SLiDE–Servicio de Aprendizaje de Diseño &amp; Ingeniería. slide es un elemento clave en la respuesta de Algonquin College a un reporte de 2017 que recomenda una iniciativa de maximizar la capacidad de instituciones de estudios superiores a crear bases sociales para comunidades canadienses. SLiDE tiene la intención de captar los talentos de estudiantes de Algonquin College de las facultades de Comunicación, Diseño y Teconologías Avanzadas para prover soporte a organizaciones basadas en comunidad en el área de technología digital"
+conceptTitle: "concepto de la marca"
+conceptDescription: "El diseño del logo de slide retrata el espíritu de comunidad que los clientes aprecian de una agencia social competente. una agencia que refleja comunidad, parcería y pasos hacia cambio y el futuro"
+ideationProcessTitle: "ideación y proceso"
+ideationProcess: "siendo el primer programa en el nuevo laboratorio de inovación social en Algonquin College, la marca de slide fue diseñado para representar el flujo y la transición de desarrollo dentro de la comunidad con colores y la estructura visual de los logotipos exploran movimiento y transición a través de la mezcla de colores"
+aestheticsDescriptionTitle: "estética y diseño visual"
+aestheticsDescription: "el elemento visual también ayuda a renforzar la transición hacia adelante que representa la inovación y la dirección a la que mueve la organización. Este movimiento y sentimiento dentro del logotipo implica que SLiDE ayudará a impulsar sus clientes hacia sus destinos deseados con soluciones precisas de resolución de problemas"
+colourTitle: "colores"
+colourDescription: "los colores de slide fueron inspirados por dos elementos clave: la comunidad y los estudiantes que conforman a slide. el color rojo fue inspirado por el sillón rojo de Stanford que representa el laboratorio de inovación social y todos los alumnos involucrados en este movimiento social. el amarrillo representa la comunidad de ottawa. el gradiente entre ambos colores representa el movimiento y el cambio que ocurre por la colaboración y el esfuerzo tanto del laboratorio de SLiDE y los estudiantes"
+typeTitle: "tipografía"
+typeDescription: "la tipografía corporativa de slide proviene de un tipo de letra de google llamada sans. este tipo de letra simboliza fuerza y el peso de letra ayuda a establecer presencia y profesionalismo que se espera de una empresa social"
+iconTitle: "iconografía"
+iconDescription: "La página de internet y la marca de slide contiene iconografía personalizada simple. el uso de tonos y contornos grises representa el estado actual de la comunidad y los colores de accento representan los sectores para los cuales los alumnos y el laboratorio de inovación social dan soluciones"
+usabilitySection: "participando en comunidad"
+usabilityDescription: "para legitimizar el laboratorio, un sitio de internet fue creado para ayudar a dar cara al nombre de slide y crear un canal para los miembros de la comunidad y empresas para visitar y aprender más sobre el servicio de aprendizaje"
+usabilityLinkTitle: Visita la página de internet
+usabilityLink: https://slidelab7.ca/
+usabilityLinkTitleTwo: Visita el laboratorio
+usabilityLinkTwo: https://slidelab7.ca/contactus
 
 imgBg: "bg-img-case-4"
 solidBg: "bg-solid-case-4"
-imgBannerSec: "android-phone.png"
-imgSec: "placeholder-4by3.svg"
+imgSec: "slide-process.svg"
+imgSecColours: "slide-colour.svg"
+imgSecType: "slide-type.svg"
+imgSecIcons: "slide-icons.svg"
 
 conceptClass: con-section-04
 aestheticsClass: aes-section-04

@@ -39,13 +39,13 @@ usabilityTitle: "learning your keys"
 usabilityContent: "Children will have access to comprehensive learning material and content with the help of Monsieur McCat to support their journey"
 usabilityImage: violinin1.jpg
 usabilityTitle-02: "mastering your notes"
-usabilityContent-02: "This feature will give a step buy step tutorial on what note on the tracker sheet, and show them where they can find the the key on the violin. As they get confortable with the instrument, children will be able to play their own violin along with the song"
+usabilityContent-02: "This feature will give a step by step tutorial on what note on the tracker sheet, and show them where they can find the the key on the violin. As they get confortable with the instrument, children will be able to play their own violin along with the song"
 usabilityImage-02: violinin2.jpg
 usabilityTitle-03: "keep track of your progress"
 usabilityContent-03: "Children will have a way to keep track of their progress as they interact with the app. They will be able to track and compare their lowest to highest scores as a way to motivate them to keep getting better"
 usabilityImage-03: violinin3.jpg
 usabilityTitle-04: "test your knowledge"
-usabilityContent-04: "Kids will then be able to measure their new knowledge what they have learned with the app's materials with the embed game testing quizzes"
+usabilityContent-04: "Kids will then be able to measure their new knowledge what they have learned with the app's materials with the embed quiz game"
 usabilityImage-04: violinin4.jpg
 
 imgBg: "bg-img-case-3"

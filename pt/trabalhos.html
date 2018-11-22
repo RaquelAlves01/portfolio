@@ -21,7 +21,7 @@ page: work
       </div>
 
   <section id="case-section">
-    {% for case in site.case-study %}
+    {% for case in site.case-study_pt %}
       {% assign evenOrOdd = forloop.index|modulo:2 %}
       {% include case-selection-section.html case=case evenOrOdd=evenOrOdd %}
     {% endfor %}

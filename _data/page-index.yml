@@ -4,7 +4,7 @@ en:
   about: "/en/about/"
   contact: "/en/contact/"
   violinin: "/en/case-study/violinin/"
-  makinthru: "/en/case-study/makin-thru/"
+  makinthru: "/en/case-study/making-thru/"
   parkbot: "/en/case-study/parkbot/"
   slide: "/en/case-study/slide/"
 
@@ -15,7 +15,7 @@ es:
   about: "/es/sobre-mi/"
   contact: "/es/contato/"
   violinin: "/es/estudo/violinin/"
-  makinthru: "/es/estudo/makin-thru/"
+  makinthru: "/es/estudo/making-thru/"
   parkbot: "/es/estudo/parkbot/"
   slide: "/es/estudo/slide/"
 
@@ -25,6 +25,6 @@ pt:
   about: "/pt/sobre-mim/"
   contact: "/pt/contato/"
   violinin: "/pt/caso/violinin/"
-  makinthru: "/pt/caso/makin-thru/"
+  makinthru: "/pt/caso/making-thru/"
   parkbot: "/pt/caso/parkbot/"
   slide: "/pt/caso/slide/"
