@@ -17,25 +17,6 @@ background-size: cover;
 background-attachment: fixed;
 height: 80vh;
 }
-/*
-.bg-div-img-03-case-1 {
-background-image: url('../images/stationary.jpg');
-background-repeat: no-repeat;
-background-position: center center;
-background-size: cover;
-background-attachment: fixed;
-height: 60vh;
-}
-
-.bg-div-img-04-case-1 {
-background-image: url('../images/computer-screen.jpg');
-background-repeat: no-repeat;
-background-position: center center;
-background-size: cover;
-background-attachment: fixed;
-height: 60vh;
-} */
-
 
 /* caseTwo */
 .bg-div-img-01-case-2 {
@@ -121,7 +102,7 @@ height: 80vh;
 }
 
 .bg-div-img-02-case-4 {
-background-image: url('../images/slide.jpg');
+background-image: url('../images/slide-entrance.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
@@ -139,7 +120,7 @@ height: 60vh;
 }
 
 .bg-div-img-04-case-4 {
-background-image: url('../images/slide-entrance.jpg');
+background-image: url('../images/slide.jpg');
 background-repeat: no-repeat;
 background-position: top;
 background-size: cover;
