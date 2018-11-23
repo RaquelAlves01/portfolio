@@ -29,6 +29,8 @@ iconTitle: "iconografía"
 iconDescription: "Ao contrário dos outros elementos visuais deste aplicativo, fazer através carrega sua própria iconografia autêntica. Esses ícones foram projetados para serem igualmente estruturados e consistentes com o restante do design do aplicativo"
 usabilitySection: "eexperiência de usabilidade e fluxo de tarefas"
 usabilityDescription: "Este aplicativo foi projetado para ser acessível, seja em áreas populares ou áreas remotas. Este aplicativo foi criado para dar assistência aos usuários a determinar os locais e guiá-los até o destino final"
+usabilityLink: https://xd.adobe.com/view/c67701d4-042c-432f-5d38-5d3cf62f6429-b046/?fullscreen
+usabilityLinkTitle: Veja como funciona o aplicativo
 
 usabilityTitle: "explorando sua área"
 usabilityContent: "Verifique os pontos de acesso em torno de sua área. Descubra lojas locais, restaurantes, eventos, lugares que se alinhem com seu interesse"

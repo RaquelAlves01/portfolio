@@ -29,6 +29,8 @@ iconTitle: "iconografía"
 iconDescription: "A diferencia de otros elementos visuales de esta aplicación, making thru hace uso de su propia iconografía auténtica. estos íconos fueron diseñados para ser estructurados y consistentes con el resto del diseño de la aplicación"
 usabilitySection: "experiencia de usabilidad y flujo de tareas"
 usabilityDescription: "Esta aplicación fue diseñada para ser accesible tanto en áreas populares o remotas. Fue creada para ayudar a usuarios a determinar locales y guiarlos a su destino final"
+usabilityLink: https://xd.adobe.com/view/c67701d4-042c-432f-5d38-5d3cf62f6429-b046/?fullscreen
+usabilityLinkTitle: Ver como funciona la aplicación
 
 usabilityTitle: "explorando tu área"
 usabilityContent: "Encuentra puntos de acceso en tu área. Descubre tiendas locales, restaurantes, eventos y lugares que se alinean con sus intereses"

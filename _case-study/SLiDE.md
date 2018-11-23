@@ -12,7 +12,7 @@ caseImg02: bg-div-img-02-case-4
 caseImg03: bg-div-img-03-case-4
 caseImg04: bg-div-img-04-case-4
 
-caseIntro: "SLiDE–Service Learning in Design &amp; Engineering. slide is a key element of algonquin college’s response to a 2017 report, recode initiative to maximize the capacity of advanced education institutions to build social ground work for canadian communities. *slide* is intended to harness the talents of Algonquin College students from the Schools of Media and Design and Advanced Technology to provide support to community-based organizations in the area of digital technology"
+caseIntro: "SLiDE–Service Learning in Design &amp; Engineering. slide is a key element of algonquin college’s response to a 2017 report, recode initiative to maximize the capacity of advanced education institutions to build social ground work for Canadian communities. SLiDE is intended to harness the talents of Algonquin College students from the Schools of Media and Design and Advanced Technology to provide support to community-based organizations in the area of digital technology"
 conceptTitle: "concept for the brand"
 conceptDescription: "the slide logo designs portraits the spirit of community that clients come to appreciate from a competent social agency. one that reflects community, partnership and movement towards change and the future"
 ideationProcessTitle: "ideation and process"
@@ -45,3 +45,21 @@ colourClass: co-section-04
 typeClass: type-section-04
 iconClass: ico-section-04
 ---
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "{{page.image}}",
+    "url": "https://raquelalves.ca/en/case-study/slide/",
+    "dateCreated": "2018-11-23",
+    "description": "A social enterprise driven by the students of the Algonquin College's Media and Design programs, to provide support to community-based organizations in the area of digital technology",
+    "keywords": "app, parking, accessible, interface, easy, parking app"
+  }
+</script>

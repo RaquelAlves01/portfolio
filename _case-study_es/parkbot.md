@@ -29,6 +29,8 @@ iconTitle: "iconografía"
 iconDescription: "Se usó un enfoque limpio y elegante al crear la iconografía de la aplicación. Los íconos fueron diseñados para ser facilmente reconocidos e intuitívos incluso para usuarios nuevos"
 usabilitySection: "experiencia de usabilidad y flujo de tareas"
 usabilityDescription: "Parkbot fue creado como un esfuerzo para ayudar y guíar usuarios para empezar su día con una cosa menos de qué preocuparse; con asignación de estacionamiento automática, asistencia interactiva y pago del estacionamiento de un solo clicks"
+usabilityLink: https://xd.adobe.com/view/86c3ab21-182b-422b-5fb7-dc98cee72042-f0f2/?fullscreen
+usabilityLinkTitle: Ver como funciona la aplicación
 
 usabilityTitle: "estacionamiento automático"
 usabilityContent: "Parkbot automáticamente selecciona un lugar de estacionamiento y te informa dónde se encuentra el lugar de estacionamiento más óptimo"

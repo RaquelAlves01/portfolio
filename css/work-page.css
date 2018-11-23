@@ -6,6 +6,11 @@
   -moz-transition: all 1s linear;
   overflow: hidden;
   filter: grayscale(90%);
+  position: relative;
+}
+
+.case-container a {
+  display: block;
 }
 
 .case-container:hover {

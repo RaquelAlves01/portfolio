@@ -63,3 +63,21 @@ colourClass: co-section-03
 typeClass: type-section-03
 iconClass: ico-section-03
 ---
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "{{page.image}}",
+    "url": "https://raquelalves.ca/en/case-study/parkbot/",
+    "dateCreated": "2018-11-23",
+    "description": "An app that sorts, plans and assigns parking spots daily",
+    "keywords": "app, parking, accessible, interface, easy, parking app"
+  }
+</script>

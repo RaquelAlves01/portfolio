@@ -29,6 +29,8 @@ iconTitle: "iconography"
 iconDescription: "An elegant and clean approach was used when creating the app's iconography. The icons where designed to be easily recognizable and intuitive even to first time users"
 usabilitySection: "usability experience and task flow"
 usabilityDescription: "Parkbot was created as an effort to help assist and guide users to start their day with one less thing to worry about. With automated parking assignment, interactive assistance and one tap parking pay"
+usabilityLink: https://xd.adobe.com/view/86c3ab21-182b-422b-5fb7-dc98cee72042-f0f2/?fullscreen
+usabilityLinkTitle: See how app works
 
 usabilityTitle: "auto parking"
 usabilityContent: "Parkbot will automatically select a spot and let you know where you can find a parking spot nearest you"
@@ -58,3 +60,20 @@ typeClass: type-section-01
 iconClass: ico-section-01
 
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "{{page.image}}",
+    "url": "https://raquelalves.ca/en/case-study/parkbot/",
+    "dateCreated": "2018-11-23",
+    "description": "An app that sorts, plans and assigns parking spots daily",
+    "keywords": "app, parking, accessible, interface, easy, parking app"
+  }
+</script>
