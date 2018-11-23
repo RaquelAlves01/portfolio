@@ -9,8 +9,9 @@ image: making-thru-screen.png
 
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
-caseImg03: bg-div-img-03-case-2
-caseImg04: bg-div-img-04-case-2
+caseImg03: bg-div-img-05-case-2
+caseImg04: bg-div-img-03-case-2
+caseImg05: bg-div-img-04-case-2
 
 caseIntro: "Making thru otimiza sua experiência de deslocamento com uma interface simples e intuitiva. Ele fornece o reencaminhamento instantâneo para ajudá-lo a evitar o tráfego. Alertas de tráfego de visão geral, zonas de construção, acidentes e perigos para evitar no caminho. Dicas de preços de gás para ajudá-lo a encontrar o gás mais barato em seu caminho. Navegação offline e guia de orientação são oferecidas sem o uso da Internet. Este aplicativo foi desenvolvido para ajudar você a fazer o melhor do dia"
 conceptTitle: "deslocamento fácil"

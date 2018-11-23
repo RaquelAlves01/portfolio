@@ -1,60 +1,14 @@
 /* colourSection */
-.aes-section-01,
-.type-section-01,
-.con-section-01 {
-  background-color: #ADA77B;
-}
-
-.co-section-01,
-.ico-section-01 {
-  background-color: #C9C4A1;
-}
-
-.aes-section-02,
-.type-section-02,
-.con-section-02 {
-  background-color: #1b769e;
-}
-
-.co-section-02,
-.ico-section-02 {
-  background-color: #4992b1;
-}
-
-.aes-section-03,
-.type-section-03,
-.con-section-03 {
-  background-color: #da3363;
-}
-
-.co-section-03,
-.ico-section-03 {
-  background-color: #e15b82;
-}
-
-.aes-section-04,
-.type-section-04,
-.con-section-04 {
-  background-color: #7e7e7e;
-}
-
-.co-section-04,
-.ico-section-04 {
-  background-color: #a3a3a3;
-}
-
-.case-flow-section,
-.case-flow-3-section,
-.case-concept-1-section {
-  background-color: #363636;
-}
-
+.aes-section-01,.type-section-01,.con-section-01 {background-color: #ADA77B;}
+.co-section-01,.ico-section-01 {background-color: #C9C4A1;}
+.aes-section-02,.type-section-02,.con-section-02 {background-color: #1b769e;}
+.co-section-02,.ico-section-02 {background-color: #4992b1;}
+.aes-section-03,.type-section-03,.con-section-03 {background-color: #da3363;}
+.co-section-03,.ico-section-03 {background-color: #e15b82;}
+.aes-section-04,.type-section-04,.con-section-04 {background-color: #7e7e7e;}
+.co-section-04,.ico-section-04 {background-color: #a3a3a3;}
+.case-flow-section,.case-flow-3-section,.case-concept-1-section {background-color: #363636;}
 /* endof colourSection */
 
-.img-flex-1-2 {
-  width: 50%;
-}
-
-.img-flex-3-4 {
-  width: 75%;
-}
+.img-flex-1-2 {width: 50%;}
+.img-flex-3-4 {width: 75%;}

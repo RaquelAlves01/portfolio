@@ -1,11 +1,14 @@
 ---
 layout: case-study
 title: violinin
-meta:
+meta: App developed to help your children engage with music and learn, from beginners to advanced, how to play the violin
 lang: en
 page: violinin
 type: landscape
 image: violinin.png
+dateCreated: 2018-11-23
+keyWords: app, kids app, learning, musical, music app, accessibility, Monsieur McCat, kids friendly
+
 
 caseImg: bg-div-img-01-case-3
 caseImg02: bg-div-img-02-case-3
@@ -63,21 +66,3 @@ colourClass: co-section-03
 typeClass: type-section-03
 iconClass: ico-section-03
 ---
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    "name": "{{page.title}}",
-    "author": {
-      "@type": "Person",
-      "name": "Raquel Alves A.F"
-    },
-    "image": "{{page.image}}",
-    "url": "https://raquelalves.ca/en/case-study/parkbot/",
-    "dateCreated": "2018-11-23",
-    "description": "An app that sorts, plans and assigns parking spots daily",
-    "keywords": "app, parking, accessible, interface, easy, parking app"
-  }
-</script>

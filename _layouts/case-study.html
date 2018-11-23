@@ -247,5 +247,28 @@ layout: default
       <div class="{{page.caseImg04}}"><!--BG img div--></div>
     </section>
   {% endif %}
+  {% if page.caseImg05 %}
+    <section>
+      <div class="{{page.caseImg05}}"><!--BG img div--></div>
+    </section>
+  {% endif %}
 
 </main>
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "https://raquelalves.ca{{site.baseurl}}/images/{{page.image}}",
+    "url": "https://raquelalves.ca{{page.url}}",
+    "dateCreated": "{{page.dateCreated}}",
+    "description": "{{page.caseIntro}}",
+    "keywords": "{{page.keyWords}}"
+  }
+</script>

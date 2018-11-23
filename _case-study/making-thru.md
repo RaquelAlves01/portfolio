@@ -1,16 +1,19 @@
 ---
 layout: case-study
 title: making thru
-meta:
+meta: App that optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic
 lang: en
 page: makinthru
 type: mobile
 image: making-thru-screen.png
+dateCreated: 2018-11-23
+keyWords: app, map, commute, intuitive, tourists, foreign, trustworthy,
 
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
-caseImg03: bg-div-img-03-case-2
-caseImg04: bg-div-img-04-case-2
+caseImg03: bg-div-img-05-case-2
+caseImg04: bg-div-img-03-case-2
+caseImg05: bg-div-img-04-case-2
 
 caseIntro: "Making thru optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic. overviews traffic alerts, construction zones, crashes and hazards to avoid on the road. gas-pricing tips to help you find the cheapest gas on your way. offline navigation and directions guide is offered without the use of internet. this app was developed to better assist your making thru' of your day"
 conceptTitle: "commuting made easy"
@@ -56,20 +59,3 @@ colourClass: co-section-02
 typeClass: type-section-02
 iconClass: ico-section-02
 ---
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    "name": "{{page.title}}",
-    "author": {
-      "@type": "Person",
-      "name": "Raquel Alves A.F"
-    },
-    "image": "{{page.image}}",
-    "url": "https://raquelalves.ca/en/case-study/making-thru/",
-    "dateCreated": "2018-11-23",
-    "description": "App that optimizes your commuting experience with a simple and intuitive interface",
-    "keywords": "app, map, intuitive, commute, easy, map app"
-  }
-</script>

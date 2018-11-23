@@ -6,6 +6,8 @@ lang: en
 page: parkbot
 type: mobile
 image: parkbot.png
+dateCreated: 2018-11-23
+keyWords: app, park, automatic, intuitive, accessible, accessibility, time saver, time saving
 
 caseImg: bg-div-img-01-case-1
 caseImg02: bg-div-img-02-case-1
@@ -60,20 +62,3 @@ typeClass: type-section-01
 iconClass: ico-section-01
 
 ---
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    "name": "{{page.title}}",
-    "author": {
-      "@type": "Person",
-      "name": "Raquel Alves A.F"
-    },
-    "image": "{{page.image}}",
-    "url": "https://raquelalves.ca/en/case-study/parkbot/",
-    "dateCreated": "2018-11-23",
-    "description": "An app that sorts, plans and assigns parking spots daily",
-    "keywords": "app, parking, accessible, interface, easy, parking app"
-  }
-</script>

@@ -9,8 +9,9 @@ image: making-thru-screen.png
 
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
-caseImg03: bg-div-img-03-case-2
-caseImg04: bg-div-img-04-case-2
+caseImg03: bg-div-img-05-case-2
+caseImg04: bg-div-img-03-case-2
+caseImg05: bg-div-img-04-case-2
 
 caseIntro: "<i>Making thru</i> optimiza la experiencia de tu viaje diario con una interfaz simple e intuitíva. Proviene mejores rutas para evitar el tráfico. Muestra alertas de tráfico, zonas de construcción, accidentes y otros peligros que evitar en la calle. Recomenda la mejor gasolinería en tu camino basado en precios. Ofrece navegación y direcciones sin la necesidad de conexión a internet. Esta aplicación fue desarrollada para mejor ayudar a hacer tu día más fácil"
 conceptTitle: "facilidad de viajar diariamente"
