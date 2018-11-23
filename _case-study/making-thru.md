@@ -29,6 +29,8 @@ iconTitle: "iconography"
 iconDescription: "unlike the other visual elements of this app, making thru carries it's own authentic iconography. these icons were designed to be equally structured and consistent with the rest of the app's design"
 usabilitySection: "usability experience and task flow"
 usabilityDescription: "This app was designed to be accessible be it in popular areas or remote areas. This app was created to help assist users determine locations and guide them through to their final destination"
+usabilityLink: https://xd.adobe.com/view/c67701d4-042c-432f-5d38-5d3cf62f6429-b046/?fullscreen
+usabilityLinkTitle: see how app works
 
 usabilityTitle: "exploring your area"
 usabilityContent: "Checkout the hotspots around your area. Discover local stores, restaurants, events, places that aligns with your interest"
@@ -54,3 +56,20 @@ colourClass: co-section-02
 typeClass: type-section-02
 iconClass: ico-section-02
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "{{page.image}}",
+    "url": "https://raquelalves.ca/en/case-study/making-thru/",
+    "dateCreated": "2018-11-23",
+    "description": "App that optimizes your commuting experience with a simple and intuitive interface",
+    "keywords": "app, map, intuitive, commute, easy, map app"
+  }
+</script>
