@@ -23,7 +23,7 @@ aestheticsDescription: "Making thru' fue diseñado con elementos visuales concis
 systemFlowTitle: "sistema y flujo"
 systemFlow: "Making thru' fue diseñado para ayudar a usuarios navegar el mundo más rápidamente sin importar dónde se encuentran. Usarios tienen el beneficio de vencer al tráfico con cambio de rutas automáticos, tienen acceso a lugares, y consiguen direcciones sin conexión celular ni wi-fi"
 colourTitle: "colores"
-colourDescription: "Making thru’s usa una paleta de colores del kit de materiales de apple. Los colores primarios que son morado oscuro y diferentes tintes de azul marcan un tono suave y serio mientras que el accento rosa agrega un sentido de viveza y excitación."
+colourDescription: "Making thru usa una paleta de colores del kit de materiales de Apple. Los colores primarios que son morado oscuro y diferentes tintes de azul marcan un tono suave y serio mientras que el accento rosa agrega un sentido de viveza y excitación."
 typeTitle: "iconografía"
 typeDescription: "El tipo de letra usado en el diseño es San Francisco, el que usa Apple por defecto. Para los títulos se usa el peso de letra SF Pro Bold y para el texto principal y para demás texto se usa SF Pro Display Regular"
 iconTitle: "iconografía"

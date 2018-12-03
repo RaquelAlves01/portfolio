@@ -1,8 +1,8 @@
-.intro-case-txt {max-width: 39em;}
+.intro-case-txt {max-width: 44em;}
 .lang li {border-bottom: 1px solid #D8D3AD;transition: all 200ms linear;-web-transition: all linear 200ms;-moz-transition: all linear 200ms;}
-.lang li:hover {color: #DA3363;border-bottom: 1px solid #DA3363;}
+.lang li:hover, .lang li.nav-current {color: #DA3363;border-bottom: 1px solid #DA3363;}
 #nav,.logo-pos {text-align: left;}
-.nav-bar.nav-current {border-bottom: 1px solid #DA3363;}
+.nav-bar.nav-current, .link.nav-current {border-bottom: 1px solid #DA3363;}
 @media only screen and (min-width: 38em) {
   h2 {letter-spacing: .0125em;font-size: 7em;line-height: .625em;}
   #nav {text-align: right;}
