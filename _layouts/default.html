@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="{{site.baseurl}}/images/favicon.ico">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
-  <title>{% if page.title %}{{ page.title }} · {% endif %} Raquel Alves</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %} Design.Code.Repeat. · Ottawa, Ontario</title>
   <meta name="description" content="{% if page.meta %}{{ page.meta }}{% endif %}">
 </head>
 <body>
@@ -22,3 +22,20 @@
 
 </body>
 </html>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{page.title}}",
+    "author": {
+      "@type": "Person",
+      "name": "Raquel Alves A.F"
+    },
+    "image": "https://raquelalves.ca{{site.baseurl}}/images/{{page.image}}",
+    "url": "https://raquelalves.ca{{page.url}}",
+    "dateCreated": "{{page.dateCreated}}",
+    "description": "{% if page.caseIntro %}{{page.caseIntro}} {% else %} {{page.meta}}{% endif %}",
+    "keywords": "{{page.keyWords}}"
+  }
+</script>

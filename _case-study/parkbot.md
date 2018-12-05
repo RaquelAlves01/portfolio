@@ -1,7 +1,7 @@
 ---
 layout: case-study
 title: parkbot
-meta:
+meta: An app that was developed to sort, plans and assigns parking spots daily within user time frame needs and accessibility options efficiently so all users to get a spot
 lang: en
 page: parkbot
 type: mobile
