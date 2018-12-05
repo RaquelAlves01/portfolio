@@ -25,7 +25,7 @@ layout: default
   </section>
 
   <section>
-    <div class="{{page.conceptClass}} island-2">
+    <div class="{{page.conceptClass}} island-2" tabindex="0">
       <div class="pad-t-2 pad-b-2">
         <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
@@ -39,7 +39,7 @@ layout: default
       </div>
     </div>
 
-    <div class="case-concept-1-section island-2">
+    <div class="case-concept-1-section island-2" tabindex="0">
       <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
         <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
           <h4 class="push-0"><em class="indent-grid block exa normal">{{page.ideationProcessTitle}}<span class="pink tena">.</span></em></h4>
@@ -54,7 +54,7 @@ layout: default
       </div>
     </div>
     {% if page.systemFlow %}
-      <div class="case-concept-2-section island-2">
+      <div class="case-concept-2-section island-2" tabindex="0">
         <div class="grid pad-t-2 gutter-2 wrapper push-2">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
             <h4 class="push-0"><em class="indent-grid block exa normal">{{page.systemFlowTitle}}<span class="pink tena">.</span></em></h4>
@@ -71,7 +71,7 @@ layout: default
     </section>
   {% endif %}
 
-  <section class="{{page.aestheticsClass}}">
+  <section class="{{page.aestheticsClass}}" tabindex="0">
     <div class="island-2">
       <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] pad-t-2">
@@ -85,7 +85,7 @@ layout: default
       </div>
     </div>
 
-    <div class="{{page.colourClass}} island-2">
+    <div class="{{page.colourClass}} island-2" tabindex="0">
       <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
         <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
           <h4 class="push-0"><em class="indent-grid block exa normal">{{page.colourTitle}}<span class="pink tena">.</span></em></h4>
@@ -103,7 +103,7 @@ layout: default
       </div>
     </div>
 
-    <div class="{{page.typeClass}} island-2">
+    <div class="{{page.typeClass}} island-2" tabindex="0">
       <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
         <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
           <h4 class="push-0"><em class="indent-grid block exa normal">{{page.typeTitle}}<span class="pink tena">.</span></em></h4>
@@ -120,7 +120,7 @@ layout: default
       </div>
     </div>
 
-    <div class="{{page.iconClass}} island-2">
+    <div class="{{page.iconClass}} island-2" tabindex="0">
       <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
         <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
           <h4 class="push-0"><em class="indent-grid block exa normal">{{page.iconTitle}}<span class="pink tena">.</span></em></h4>
@@ -140,7 +140,7 @@ layout: default
   </section>
 
   <section class="usa-section">
-    <div class="appfunc-section island-2">
+    <div class="appfunc-section island-2" tabindex="0">
       <div class="pad-t-2 pad-b-2">
         <div class="grid wrapper pad-t-2 pad-b-2 gutter-2">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
@@ -150,17 +150,21 @@ layout: default
           <div class="unit [ xs-1 s-2-3 m-2-3 l-2-3 xl-2-3 ] push-2">
             <p class="push mega">{{page.usabilityDescription}}</p>
             {% if page.usabilityLink %}
-              <a class="push-1-2 link-box" href="{{page.usabilityLink}}">{{page.usabilityLinkTitle}}</a>
+            <div class="block">
+              <a class="push-1-2 link-box mail-to" href="{{page.usabilityLink}}">{{page.usabilityLinkTitle}}</a>
+            </div>
             {% endif %}
             {% if page.usabilityLinkTwo %}
-              <a class="link-box" href="{{page.usabilityLinkTwo}}">{{page.usabilityLinkTitleTwo}}</a>
+            <div class="block">
+              <a class="link-box mail-to" href="{{page.usabilityLinkTwo}}">{{page.usabilityLinkTitleTwo}}</a>
+            </div>
             {% endif %}
           </div>
         </div>
       </div>
     </div>
     {% if page.usabilityTitle %}
-      <div class="case-flow-section island-2">
+      <div class="case-flow-section island-2" tabindex="0">
         <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
             <h4 class="push-0"><em class="indent-grid block peta normal">{{page.usabilityTitle}}<span class="pink tena">.</span></em></h4>
@@ -178,7 +182,7 @@ layout: default
       </div>
     {% endif %}
     {% if page.usabilityTitle-02 %}
-      <div class="case-flow-2-section island-2">
+      <div class="case-flow-2-section island-2" tabindex="0">
         <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
             <h4 class="push-0"><em class="indent-grid block peta normal">{{page.usabilityTitle-02}}<span class="pink tena">.</span></em></h4>
@@ -196,7 +200,7 @@ layout: default
       </div>
     {% endif %}
     {% if page.usabilityTitle-03 %}
-      <div class="case-flow-3-section island-2">
+      <div class="case-flow-3-section island-2" tabindex="0">
         <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
             <h4 class="push-0"><em class="indent-grid block peta normal">{{page.usabilityTitle-03}}<span class="pink tena">.</span></em></h4>
@@ -214,7 +218,7 @@ layout: default
       </div>
     {% endif %}
     {% if page.usabilityTitle-04 %}
-      <div class="case-flow-4-section island-2">
+      <div class="case-flow-4-section island-2" tabindex="0">
         <div class="grid pad-t-2 pad-b-2 gutter-2 wrapper">
           <div class="unit [ xs-1 s-1 m-1 l-1 xl-1 ] ">
             <h4 class="push-0"><em class="indent-grid block peta normal">{{page.usabilityTitle-04}}<span class="pink tena">.</span></em></h4>
@@ -234,22 +238,22 @@ layout: default
   </section>
   {% if page.caseImg02 %}
     <section>
-      <div class="{{page.caseImg02}}"><!--BG img div--></div>
+      <div aria-detail="{{page.caseIntro}}" class="{{page.caseImg02}}"><!--BG img div--></div>
     </section>
   {% endif %}
   {% if page.caseImg03 %}
     <section>
-      <div class="{{page.caseImg03}}"><!--BG img div--></div>
+      <div aria-detail="{{page.caseIntro}}" class="{{page.caseImg03}}"><!--BG img div--></div>
     </section>
   {% endif %}
   {% if page.caseImg04 %}
     <section>
-      <div class="{{page.caseImg04}}"><!--BG img div--></div>
+      <div aria-detail="{{page.caseIntro}}" class="{{page.caseImg04}}"><!--BG img div--></div>
     </section>
   {% endif %}
   {% if page.caseImg05 %}
     <section>
-      <div class="{{page.caseImg05}}"><!--BG img div--></div>
+      <div aria-detail="{{page.caseIntro}}" class="{{page.caseImg05}}"><!--BG img div--></div>
     </section>
   {% endif %}
 

@@ -1,9 +1,7 @@
 .social-media,.copyright,.lang {text-align: left;}
 .social-media,.social-nav,.nav-bar,.link {border-bottom: 1px solid transparent;transition: all 200ms linear;-web-transition: all linear 200ms;-moz-transition: all linear 200ms;}
-.mail-to {display: inline-block;transition: all 200ms linear;}
+.mail-to {display: inline-block;transition: all 200ms linear; color: #D8D3AD; border-bottom: 1px solid #D8D3AD; margin-bottom: .25em;}
 .social-nav:hover,.nav-bar:hover, .mail-to:hover, .link:hover {border-bottom: 1px solid #DA3363;}
 @media only screen and (min-width: 60em) {
-  .social-media {
-    text-align: right;
-  }
+  .social-media {text-align: right;}
 }

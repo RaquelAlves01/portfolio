@@ -2,7 +2,7 @@
 .case-container {height: 40vh;transition: all 6s linear;-webkit-transition: all 1s linear;-moz-transition: all 1s linear;overflow: hidden;filter: grayscale(90%);position: relative;}
 .case-container a {display: block;}
 .case-container:hover {overflow: hidden;z-index: 4;filter: grayscale(0);}
-.intro-case {transition: all 500ms linear;color: #fafafa;text-shadow: 1px 1px 6px #000;font-size: 2.75rem;opacity: 1;}
+.intro-case {transition: all 500ms linear;color: #fafafa;text-shadow: 1px 1px 6px #000;font-size: 2.25rem;opacity: 1;}
 /* end caseContainer  */
 .bg-solid-case-1 {background-color: #ADA77B;}
 .bg-img-case-1 {background-image: linear-gradient(rgba(216, 211, 173, .6),rgba(216, 211, 173, .6)), url('../images/assignment.jpg');background-repeat: no-repeat;background-position: right center;background-size: cover;background-attachment: fixed;}
@@ -15,7 +15,7 @@
 .bg-img-case-1,.bg-img-case-2,.bg-img-case-3,.bg-img-case-4 {height: 40vh;}
 .case-display-container {left: 50%;top: 50%;transform: translate(-50%, -50%);}
 .case-display-img {width: 100%;}
-.case-landscape-img {width: 110%;}
+.case-landscape-img {width: 220%; transform: translateX(-25%);}
 .img-case-display {width: 100%;}
 .img-case-phone{max-width: 60%;}
 /* media queries */
@@ -28,6 +28,7 @@
   .case-container .intro-case {opacity: 0;}
   .case-container:hover .intro-case, .case-container:focus .intro-case {font-size: 2.75rem; opacity: 1;}
   .case-display-container {left: 50%; top: 50%; transform: translate(-50%, -50%);}
+  .case-landscape-img {width: 120%; transform: translateX(-6%);}
   .case-display-img {width: 80%;}
   .img-case-display {max-width: 70%;}
   .img-case-phone {max-width: 30%;}
@@ -36,7 +37,7 @@
   .case-display-img {width: 60%;}
   .img-case-display {width: 90%;}
   .social-media {text-align: right;}
-  .case-container:hover .intro-case,.case-container:focus .intro-case {font-size: 4rem;}
+  .case-container:hover .intro-case,.case-container:focus .intro-case {font-size: 3.75rem;}
 }
 @media only screen and (min-width: 90em) {
   .case-container:hover .intro-case,.case-container:focus .intro-case {font-size: 6.5rem;}
