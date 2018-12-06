@@ -1,22 +1,24 @@
 ---
 layout: case-study
 title: violinin
-meta:
+meta:  Violinin es una aplicación intuitiva de aprendizaje que fue desarrollada para ayudar a tus niños a involucrarse con música
 lang: es
 page: violinin
 type: landscape
 image: violinin.png
+dateCreated: 2018-11-23
+keyWords: aplicacion, aplicacion infantil, apredizaje, musical, aplicacion musical, acesibilidade, Monsieur McCat, para niño, alves, diseño
 
 caseImg: bg-div-img-01-case-3
 caseImg02: bg-div-img-02-case-3
 caseImg03: bg-div-img-03-case-3
 caseImg04: bg-div-img-04-case-3
 
-caseIntro: "Violinin es una aplicación intuitiva de aprendizaje que fue desarrollada para ayudar a tus niños a involucrarse con música y aprender a tocar el violín desde principiantes a avanzados"
+caseIntro: "<i>Violinin'</i> es una aplicación intuitiva de aprendizaje que fue desarrollada para ayudar a tus niños a involucrarse con música y aprender a tocar el violín desde principiantes a avanzados"
 conceptTitle: "concepto de la aplicación"
-conceptDescription: "Violinin es la aplicación que hará a tu niño volverse un experto en el violín. Con lecciones interactivas en las diferentes partes del violin y las notas que se tocan, esta aplicación permitirá a tu niño a aprender como tocar canciones de principiantes y más avanzadas sin supervisión profesional desde la comodidad de tu casa. Incluye examenes divertidos para probar el conocimiento de tu niño en lo que aprendió"
+conceptDescription: "<i>Violinin'</i> es la aplicación que hará a tu niño volverse un experto en el violín. Con lecciones interactivas en las diferentes partes del violin y las notas que se tocan, esta aplicación permitirá a tu niño a aprender como tocar canciones de principiantes y más avanzadas sin supervisión profesional desde la comodidad de tu casa. Incluye examenes divertidos para probar el conocimiento de tu niño en lo que aprendió"
 ideationProcessTitle: "ideación y proceso"
-ideationProcess: "Violinin fue desarrollado para ayudar a los niños a involucrarse más con la música. En esta era moderna los niños tienen acceso a pantallas digitales de una edad más temprana y Violinin ofrece las herramientas para que puedan aprender mediante lecciones sobre las partes importantes del instrumento y las notas y sonidos producidos por las cuerdas del violín"
+ideationProcess: "<i>Violinin'</i> fue desarrollado para ayudar a los niños a involucrarse más con la música. En esta era moderna los niños tienen acceso a pantallas digitales de una edad más temprana y <i>Violinin'</i> ofrece las herramientas para que puedan aprender mediante lecciones sobre las partes importantes del instrumento y las notas y sonidos producidos por las cuerdas del violín"
 aestheticsDescriptionTitle: "estética y diseño visual"
 aestheticsDescription: "La uniformidad en la forma en que los colores fueron colocados y llevados a lo largo de la aplicación es claro. La meta de dicho patrón es para que el niño recuerde visualmente las actividades encontradas en la aplicación mediante el uso del color"
 systemFlowTitle: "sistema y flujo"
@@ -28,7 +30,7 @@ typeDescription: "La tipografia usada en el diseño es San Francisco, el que usa
 iconTitle: "iconografía"
 iconDescription: "Se tomó un enfoque simplístico y minimalista al crear la iconografía de la aplicación con el propósito de ser fácil de reconocer para cualquiera sin previa experiencia con la aplicación, para honrar el grupo de edades del público objetivo"
 usabilitySection: "experiencia de usabilidad y flujo de tareas"
-usabilityDescription: "El enfoque y esfuerzo de Violinin es de moldar a niños para que se transformen en el Bach de la siguiente generación. Esta aplicación contiene actividades prácticas, una lista de música para principiantes, buscador de música avanzada para que los niños toquen junto y la parte más divertida, el juego de preguntas"
+usabilityDescription: "El enfoque y esfuerzo de <i>Violinin'</i> es de moldar a niños para que se transformen en el Bach de la siguiente generación. Esta aplicación contiene actividades prácticas, una lista de música para principiantes, buscador de música avanzada para que los niños toquen junto y la parte más divertida, el juego de preguntas"
 
 usabilityLink: https://xd.adobe.com/view/257074db-0fe8-4aa4-b2c1-c91fec093985/
 usabilityLinkTitle: Ver como funciona la aplicación

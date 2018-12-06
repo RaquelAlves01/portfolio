@@ -1,11 +1,13 @@
 ---
 layout: case-study
 title: making thru
-meta:
+meta: Una applicacion que optimiza la experiencia de tu viaje diario con una interfaz simple e intuitíva.
 lang: es
 page: makinthru
 type: mobile
 image: making-thru-screen.png
+dateCreated: 2018-11-23
+keyWords: applicacion, mapa, navegacion, mejores rutas, turistas, estranjero confiable, alves, diseno
 
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
@@ -15,15 +17,15 @@ caseImg05: bg-div-img-04-case-2
 
 caseIntro: "<i>Making thru</i> optimiza la experiencia de tu viaje diario con una interfaz simple e intuitíva. Proviene mejores rutas para evitar el tráfico. Muestra alertas de tráfico, zonas de construcción, accidentes y otros peligros que evitar en la calle. Recomenda la mejor gasolinería en tu camino basado en precios. Ofrece navegación y direcciones sin la necesidad de conexión a internet. Esta aplicación fue desarrollada para mejor ayudar a hacer tu día más fácil"
 conceptTitle: "facilidad de viajar diariamente"
-conceptDescription: "Making thru' es un esfuerzo de quitarnos esa molestia de estar viajando y no poder usar servicio celular de internet. Making thru' fue creado para ser tangible e intuitivo para mejorar tu experiencia de navegar"
+conceptDescription: "<i>Making thru</i> es un esfuerzo de quitarnos esa molestia de estar viajando y no poder usar servicio celular de internet. <i>Making thru</i> fue creado para ser tangible e intuitivo para mejorar tu experiencia de navegar"
 ideationProcessTitle: "ideación y proceso"
 ideationProcess: "Turistas necesitan una forma de moverse, evitar el tráfico y encontrar puntos de wi-fi sin necesidad constante de internet celular. También necesitan poder marcar sus lugares favoritos para regresar a ellos facilmente"
 aestheticsDescriptionTitle: "astética y diseño visual"
-aestheticsDescription: "Making thru' fue diseñado con elementos visuales concisos y llamativos y un flujo de aplicación para que los usuarios puedan llegar a dónde quieren aún en áreas remotas"
+aestheticsDescription: "<i>Making thru</i> fue diseñado con elementos visuales concisos y llamativos y un flujo de aplicación para que los usuarios puedan llegar a dónde quieren aún en áreas remotas"
 systemFlowTitle: "sistema y flujo"
 systemFlow: "Making thru' fue diseñado para ayudar a usuarios navegar el mundo más rápidamente sin importar dónde se encuentran. Usarios tienen el beneficio de vencer al tráfico con cambio de rutas automáticos, tienen acceso a lugares, y consiguen direcciones sin conexión celular ni wi-fi"
 colourTitle: "colores"
-colourDescription: "Making thru usa una paleta de colores del kit de materiales de Apple. Los colores primarios que son morado oscuro y diferentes tintes de azul marcan un tono suave y serio mientras que el accento rosa agrega un sentido de viveza y excitación."
+colourDescription: "Making thru usa una paleta de colores del kit de materiales de Apple. Los colores primarios que son morado oscuro y diferentes tintes de azul marcan un tono suave y serio mientras que el accento rosa agrega un sentido de viveza y excitación"
 typeTitle: "iconografía"
 typeDescription: "El tipo de letra usado en el diseño es San Francisco, el que usa Apple por defecto. Para los títulos se usa el peso de letra SF Pro Bold y para el texto principal y para demás texto se usa SF Pro Display Regular"
 iconTitle: "iconografía"

@@ -1,18 +1,20 @@
 ---
 layout: case-study
-title: slide
-meta:
+title: SLiDE
+meta: O aprendizado do serviço em design &amp; engenharia é um elemento-chave da resposta da Faculdade Algonquin para um relatório de 2017, recodificando a iniciativa para maximizar a capacidade
 lang: pt
 page: slide
 type: landscape
 image: slide.png
+dateCreated: 2018-11-23
+keyWords: iniciativa de maximizar capacidade, inovação social, slide, service learning, trabalho aplicado, design, engenharia, tecnologia, midia e desenho, servicio comunitario, ottawa, Canada, algonquin college, alves, desenho
 
 caseImg: bg-div-img-01-case-4
 caseImg02: bg-div-img-02-case-4
 caseImg03: bg-div-img-03-case-4
 caseImg04: bg-div-img-04-case-4
 
-caseIntro: "SLiDE–O aprendizado do serviço em design &amp; engenharia é um elemento-chave da resposta da Faculdade Algonquin para um relatório de 2017, recodificando a iniciativa para maximizar a capacidade das instituições de ensino avançado para construir o trabalho social de campo para as comunidades canadenses. SLiDE estina-se a aproveitar os talentos dos alunos das Escolas de Mídia e Design e Tecnologia Avançada, da Faculdade Algonquin, para oferecer suporte a organizações de base comunitária na área de tecnologia digital."
+caseIntro: "<i>SLiDE</i>–O aprendizado do serviço em design &amp; engenharia é um elemento-chave da resposta da Faculdade <i>Algonquin</i> para um relatório de 2017, recodificando a iniciativa para maximizar a capacidade das instituições de ensino avançado para construir o trabalho social de campo para as comunidades canadenses. SLiDE estina-se a aproveitar os talentos dos alunos das Escolas de Mídia e Design e Tecnologia Avançada, da Faculdade Algonquin, para oferecer suporte a organizações de base comunitária na área de tecnologia digital."
 conceptTitle: "conceito para a marca"
 conceptDescription: "o logotipo do slide retrata o espírito de comunidade que os clientes apreciam em uma agência social competente. Uma que reflita comunidade, parceria e movimento em direção à mudança e ao futuro"
 ideationProcessTitle: "ideação e processo"

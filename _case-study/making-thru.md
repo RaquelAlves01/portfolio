@@ -7,7 +7,7 @@ page: makinthru
 type: mobile
 image: making-thru-screen.png
 dateCreated: 2018-11-23
-keyWords: app, map, commute, intuitive, tourists, foreign, trustworthy,
+keyWords: app, map, commute, intuitive, tourists, foreign, trustworthy, alves, design
 
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
@@ -15,13 +15,13 @@ caseImg03: bg-div-img-05-case-2
 caseImg04: bg-div-img-03-case-2
 caseImg05: bg-div-img-04-case-2
 
-caseIntro: "Making thru optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic. overviews traffic alerts, construction zones, crashes and hazards to avoid on the road. gas-pricing tips to help you find the cheapest gas on your way. offline navigation and directions guide is offered without the use of internet. this app was developed to better assist your making thru' of your day"
+caseIntro: "<i>Making thru</i>optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic. overviews traffic alerts, construction zones, crashes and hazards to avoid on the road. gas-pricing tips to help you find the cheapest gas on your way. offline navigation and directions guide is offered without the use of internet. this app was developed to better assist your making thru' the day"
 conceptTitle: "commuting made easy"
-conceptDescription: "Making thru' is an effort to tackle the annoyance that comes when traveling, not being able to use cel service to get through the city. Making thru' was created to be both tangible and intuitive to better your navigating experience"
+conceptDescription: "<i>Making thru</i> is an effort to tackle the annoyance that comes when traveling, not being able to use cel service to get through the city. <i>Making thru</i> was created to be both tangible and intuitive to better your navigating experience"
 ideationProcessTitle: "ideation and process"
 ideationProcess: "Tourists need a way to get around, avoid traffic, and find hotspots without the need of internet or constant use of cellular data. They also need a way to be able to bookmark their favourite spots around the city to reference back to them whenever they want"
 aestheticsDescriptionTitle: "aesthetics and visual design"
-aestheticsDescription: "making thru' was designed with bold, and concise visual elements and a simple app flow so users can get to where they want to even in remote areas"
+aestheticsDescription: "<i>Making thru</i> was designed with bold, and concise visual elements and a simple app flow so users can get to where they want to even in remote areas"
 systemFlowTitle: "system and flow"
 systemFlow: "Making thru was designed to help users navigate the world faster no matter where they are in the world. Users have the benefit of beating traffic with automatic rerouting, have access to places, and getting directions without data or wifi connection"
 colourTitle: "colours"
@@ -39,7 +39,7 @@ usabilityTitle: "exploring your area"
 usabilityContent: "Checkout the hotspots around your area. Discover local stores, restaurants, events, places that aligns with your interest"
 usabilityImage: making-thru01.jpg
 usabilityTitle-02: "getting directions"
-usabilityContent-02: "Our GPS guide will take you places, navigate your area and get real-time traffic, transit, road closure and incident information. Making thru' is also available and accessible through your apple watch. This feature allows you to get to your destination no matter where you are in the world"
+usabilityContent-02: "Our GPS guide will take you places, navigate your area and get real-time traffic, transit, road closure and incident information. <i>Making thru</i> is also available and accessible through your Apple watch. This feature allows you to get to your destination no matter where you are in the world"
 usabilityImage-02: making-thru03.jpg
 usabilityTitle-03: "tagging your hotspot"
 usabilityContent-03: "Save your favourite places on the gos. Be able to get back to your saved addresses with a tap away. Select your directions and let us help you make your way through"
