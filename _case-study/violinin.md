@@ -1,6 +1,6 @@
 ---
 layout: case-study
-title: Violinin
+title: violinin
 meta: App developed to help your children engage with music and learn, from beginners to advanced, how to play the violin
 lang: en
 page: violinin

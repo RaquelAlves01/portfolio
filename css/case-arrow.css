@@ -1,2 +1,17 @@
-#arrow { border: solid #D8D3AD; border-width: 0 3px 3px 0; display: inline-block; padding: .3em; transform: rotate(45deg); transition: all 100ms linear; -web-transition: all linear 100ms; -moz-transition: all linear 100ms; }
+#arrow-container { height: 15px; width: 15px; transition: all 100ms linear; display: inline-block; -web-transition: all linear 100ms; -moz-transition: all linear 100ms; animation: bounce 1.5s linear alternate infinite;}
+#arrow { border: solid #D8D3AD; border-width: 0 3px 3px 0; display: inline-block; padding: .3em; transform: rotate(45deg);}
 #arrow:hover { border: solid #DA3363; border-width: 0 3px 3px 0; display: inline-block; padding: .3em;}
+
+ @keyframes bounce {
+  0% {
+    transform: translateY(-50px);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(20px);
+  }
+ }
