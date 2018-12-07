@@ -12,13 +12,13 @@ h1 em {color: #f1f1f1;}
 h1 span {color: #DA3363;}
 h2 {-webkit-transition: all linear .4s ease; -moz-transition: all linear .4s ease; transition: all linear .4s ease; letter-spacing: .0125em; font-size: 3.5em; line-height: .625;}
 h2 .indent-grid {padding-left: .425em;}
-main {min-height: calc(100vh - 17.2375rem);}
+main {min-height: calc(100vh - 19.2375rem);}
 .min-height .about-section {min-height: 70vh;}
 a:focus,[tabindex="0"]:focus, details:focus, summary:focus,input:focus, textarea:focus, button:focus, select:focus {outline-color: #1B769E; outline-offset: 0;}
 @media only screen and (min-width: 38em) {
   h2 {letter-spacing: .0125em; font-size: 7em; line-height: .625em;}
   .title-box {padding-left: .125em;}
-  main {min-height: calc(100vh - 14.2375rem);}
+  main {min-height: calc(100vh - 11.2375rem);}
 }
 @media only screen and (min-width: 90em) {
   .title-box {padding-left: .5em;}

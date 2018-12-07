@@ -10,5 +10,8 @@
 .case-flow-section,.case-flow-3-section,.case-concept-1-section {background-color: #363636;}
 /* endof colourSection */
 
+
+.ideation, .system, .colour, .typography, .iconography, .usability-1, .usability-2, .usability-3, .usability-4 {opacity: 0; transition: all 400ms linear; -webkit-transition: all 400ms linear; -moz-transition: all 400ms linear; transform: translateY(100px);}
+.js-work-animate {opacity: 1; transform: translateY(0);}
 .img-flex-1-2 {width: 50%;}
 .img-flex-3-4 {width: 75%;}

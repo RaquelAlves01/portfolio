@@ -20,22 +20,27 @@
 
   {% include footer.html %}
 
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "name": "{{page.title}}",
+      "author": {
+        "@type": "Person",
+        "name": "Raquel Alves A.F"
+      },
+      "image": "https://raquelalves.ca{{site.baseurl}}/images/{{page.image}}",
+      "url": "https://raquelalves.ca{{page.url}}",
+      "dateCreated": "{{page.dateCreated}}",
+      "description": "{% if page.caseIntro %}{{page.caseIntro}}{% else %} {{page.meta}} {% endif %}",
+      "keywords": "{{page.keyWords}}"
+    }
+  </script>
+
+  <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="{{site.baseurl}}/js/jquery.waypoints.min.js"></script>
+  <script src="{{site.baseurl}}/js/waypoints.js"></script>
+
 </body>
 </html>
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    "name": "{{page.title}}",
-    "author": {
-      "@type": "Person",
-      "name": "Raquel Alves A.F"
-    },
-    "image": "https://raquelalves.ca{{site.baseurl}}/images/{{page.image}}",
-    "url": "https://raquelalves.ca{{page.url}}",
-    "dateCreated": "{{page.dateCreated}}",
-    "description": "{% if page.caseIntro %}{{page.caseIntro}}{% else %} {{page.meta}} {% endif %}",
-    "keywords": "{{page.keyWords}}"
-  }
-</script>
