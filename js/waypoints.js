@@ -15,7 +15,7 @@ $ideation.waypoint(function (direction) {
   } else {
     $ideation.removeClass('js-work-animate');
   }
-}, {offset: '50%'});
+}, {offset: '60%'});
 
 $system.waypoint(function (direction) {
   if (direction == 'down') {
@@ -23,7 +23,7 @@ $system.waypoint(function (direction) {
   } else {
     $system.removeClass('js-work-animate');
   }
-}, {offset: '50%'});
+}, {offset: '60%'});
 
 $colour.waypoint(function (direction) {
   if (direction == 'down') {
@@ -79,4 +79,4 @@ $usability_4.waypoint(function (direction) {
   } else {
     $usability_4.removeClass('js-work-animate');
   }
-}, {offset: '40%'});
+}, {offset: '60%'});

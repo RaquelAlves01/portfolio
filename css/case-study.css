@@ -10,8 +10,22 @@
 .case-flow-section,.case-flow-3-section,.case-concept-1-section {background-color: #363636;}
 /* endof colourSection */
 
-
-.ideation, .system, .colour, .typography, .iconography, .usability-1, .usability-2, .usability-3, .usability-4 {opacity: 0; transition: all 300ms linear; -webkit-transition: all 300ms linear; -moz-transition: all 300ms linear; transform: translateY(100px);}
+.embed {overflow: inherit; margin-bottom: 3em;}
+.embed-item, .embed__item { min-height: 100%; left: 50%; transform: translateX(-50%); position: absolute; top: 0; width: 175%; }
+.img-flex { width: 185%; transform: translateX(-25%);}
+.ideation, .system, .colour, .typography, .iconography, .usability-1, .usability-2, .usability-3, .usability-4 {opacity: 0; transition: all 600ms linear; -webkit-transition: all 600ms linear; -moz-transition: all 600ms linear; transform: translateY(60px);}
 .js-work-animate {opacity: 1; transform: translateY(0);}
 .img-flex-1-2 {width: 50%;}
 .img-flex-3-4 {width: 75%;}
+
+
+@media only screen and (min-width: 24em) {
+
+  .embed-item, .embed__item { min-height: 100%; position: absolute; top: 0; width: 135%; }
+  .img-flex {display: block; width: 100%;  transform: translateX(0)}
+}
+
+@media only screen and (min-width: 38em) {
+  .embed {overflow: hidden;}
+  .embed-item, .embed__item { min-height: 100%; left: 0; transform: translateX(0); position: absolute; top: 0; width: 100%; }
+}

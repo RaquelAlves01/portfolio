@@ -15,7 +15,7 @@ caseImg03: bg-div-img-05-case-2
 caseImg04: bg-div-img-03-case-2
 caseImg05: bg-div-img-04-case-2
 
-caseIntro: "<i>Making thru</i>optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic. overviews traffic alerts, construction zones, crashes and hazards to avoid on the road. gas-pricing tips to help you find the cheapest gas on your way. offline navigation and directions guide is offered without the use of internet. this app was developed to better assist your making thru' the day"
+caseIntro: "<i>Making thru</i> optimizes your commuting experience with a simple and intuitive interface. it provides instant rerouting to help you avoid traffic. overviews traffic alerts, construction zones, crashes and hazards to avoid on the road. gas-pricing tips to help you find the cheapest gas on your way. offline navigation and directions guide is offered without the use of internet. this app was developed to better assist your making thru' the day"
 conceptTitle: "commuting made easy"
 conceptDescription: "<i>Making thru</i> is an effort to tackle the annoyance that comes when traveling, not being able to use cel service to get through the city. <i>Making thru</i> was created to be both tangible and intuitive to better your navigating experience"
 ideationProcessTitle: "ideation and process"

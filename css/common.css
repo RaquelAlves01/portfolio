@@ -11,18 +11,26 @@ body {height: 80vh; background-color: #292929; min-width: 22em;}
 h1 {letter-spacing: .1em;}
 h1 em {color: #f1f1f1;}
 h1 span {color: #DA3363;}
-h2 {-webkit-transition: all linear .4s ease; -moz-transition: all linear .4s ease; transition: all linear .4s ease; letter-spacing: .0125em; font-size: 3.5em; line-height: .625;}
-h2 .indent-grid {padding-left: .425em;}
-main {min-height: calc(100vh - 19.2375rem);}
-.min-height .about-section {min-height: 70vh;}
+h2 {-webkit-transition: all linear .4s ease; -moz-transition: all linear .4s ease; transition: all linear .4s ease; letter-spacing: .0125em; font-size: 4em; line-height: .625;}
+h2 .indent-grid {padding-left: .525em;}
+main {min-height: calc(100vh - 16.2375rem);}
+.min-height .about-section {min-height: 66vh;}
 a:focus,[tabindex="0"]:focus, details:focus, summary:focus,input:focus, textarea:focus, button:focus, select:focus {outline-color: #1B769E; outline-offset: 0;}
+
+@media only screen and (min-width: 30em) {
+  .min-height .about-section {min-height: 75vh;}
+}
+
+
 @media only screen and (min-width: 38em) {
-  h2 {letter-spacing: .0125em; font-size: 7em; line-height: .625em;}
+  h2 {letter-spacing: .0125em; font-size: 6em; line-height: .625em;}
   .title-box {padding-left: .125em;}
-  main {min-height: calc(100vh - 11.2375rem);}
 }
 @media only screen and (min-width: 90em) {
+  main {min-height: calc(100vh - 11.2375rem);}
   .title-box {padding-left: .5em;}
+  h2 {letter-spacing: .0125em; font-size: 7em; line-height: .625}
+  .min-height .about-section {min-height: 85vh;}
 }
 @media only screen and (min-width: 120em) {
   h2 {letter-spacing: .025em; font-size: 10em;}
