@@ -13,7 +13,7 @@ h1 em {color: #f1f1f1;}
 h1 span {color: #DA3363;}
 h2 {-webkit-transition: all linear .4s ease; -moz-transition: all linear .4s ease; transition: all linear .4s ease; letter-spacing: .0125em; font-size: 4em; line-height: .625;}
 h2 .indent-grid {padding-left: .525em;}
-main {min-height: calc(100vh - 16.2375rem);}
+main {min-height: calc(100vh - 14.2375rem);}
 .min-height .about-section {min-height: 66vh;}
 a:focus,[tabindex="0"]:focus, details:focus, summary:focus,input:focus, textarea:focus, button:focus, select:focus {outline-color: #1B769E; outline-offset: 0;}
 
