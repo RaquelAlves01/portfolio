@@ -9,6 +9,16 @@ var $usability_3 = $('.usability-3')
 var $usability_4 = $('.usability-4')
 
 
+$ideation.addClass('js-allow-work-animation')
+$system.addClass('js-allow-work-animation')
+$colour.addClass('js-allow-work-animation')
+$typography.addClass('js-allow-work-animation')
+$iconography.addClass('js-allow-work-animation')
+$usability_1.addClass('js-allow-work-animation')
+$usability_2.addClass('js-allow-work-animation')
+$usability_3.addClass('js-allow-work-animation')
+$usability_4.addClass('js-allow-work-animation')
+
 $ideation.waypoint(function (direction) {
   if (direction == 'down') {
     $ideation.addClass('js-work-animate');
