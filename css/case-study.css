@@ -16,7 +16,7 @@
 .ideation, .system, .colour, .typography, .iconography, .usability-1, .usability-2, .usability-3, .usability-4 {opacity: 1;}
 .img-flex-1-2 {width: 50%;}
 .img-flex-3-4 {width: 75%;}
-.title-box em { letter-spacing: -2px;}
+.title-box em { letter-spacing: -1px;}
 
 @media only screen and (min-width: 24em) {
 
