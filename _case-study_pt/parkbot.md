@@ -8,6 +8,9 @@ image: parkbot.png
 dateCreated: 2018-11-23
 keyWords: aplicativo, estacionamento, automatico, intuitivo, acessivel, salva tempo, alves, desenho
 
+next-case: slide
+previous-case: making-thru
+
 caseImg: bg-div-img-01-case-1
 caseImg02: bg-div-img-02-case-1
 caseImg03: bg-div-img-03-case-1

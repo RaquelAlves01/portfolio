@@ -9,6 +9,9 @@ image: slide.png
 dateCreated: 2018-11-23
 keyWords: social innovation lab, social innovation, slide, service learning, applied research, design, engineering, technology, media and design, community service, ottawa, Canada, algonquin college
 
+next-case: violinin
+previous-case: parkbot
+
 caseImg: bg-div-img-01-case-4
 caseImg02: bg-div-img-02-case-4
 caseImg03: bg-div-img-03-case-4

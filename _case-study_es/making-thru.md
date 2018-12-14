@@ -9,6 +9,9 @@ image: making-thru-screen.png
 dateCreated: 2018-11-23
 keyWords: applicacion, mapa, navegacion, mejores rutas, turistas, estranjero confiable, alves, diseno
 
+next-case: parkbot
+previous-case: violinin
+
 caseImg: bg-div-img-01-case-2
 caseImg02: bg-div-img-02-case-2
 caseImg03: bg-div-img-05-case-2

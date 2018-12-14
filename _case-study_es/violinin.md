@@ -9,6 +9,9 @@ image: violinin.png
 dateCreated: 2018-11-23
 keyWords: aplicacion, aplicacion infantil, apredizaje, musical, aplicacion musical, acesibilidade, Monsieur McCat, para niño, alves, diseño
 
+next-case: violion
+previous-case: slide
+
 caseImg: bg-div-img-01-case-3
 caseImg02: bg-div-img-02-case-3
 caseImg03: bg-div-img-03-case-3

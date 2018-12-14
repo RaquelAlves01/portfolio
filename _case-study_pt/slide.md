@@ -9,6 +9,9 @@ image: slide.png
 dateCreated: 2018-11-23
 keyWords: iniciativa de maximizar capacidade, inovação social, slide, service learning, trabalho aplicado, design, engenharia, tecnologia, midia e desenho, servicio comunitario, ottawa, Canada, algonquin college, alves, desenho
 
+next-case: violinin
+previous-case: parkbot
+
 caseImg: bg-div-img-01-case-4
 caseImg02: bg-div-img-02-case-4
 caseImg03: bg-div-img-03-case-4

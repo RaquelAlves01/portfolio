@@ -3,3 +3,8 @@
 .arrow-div:hover #arrow, #arrow-up:hover { border: solid #DA3363; border-width: 0 3px 3px 0; display: inline-block; padding: .3em;}
 @keyframes bounce { 0% {transform: translateY(-80px);} 50% { transform: translateY(-30px);} 100% { transform: translateY(-80px);}}
 #arrow-up { border: solid #D8D3AD; border-width: 0 3px 3px 0; display: inline-block; padding: .3em; transform: rotate(-135deg); margin-top: 1em; margin-left: .5em;}
+.arrow-section { padding-left: 2.6rem; padding-right: 2.6rem;}
+
+@media only screen and (min-width: 38em) {
+  .arrow-section { padding-left: .325rem; padding-right: .325rem;}
+}

@@ -1,8 +1,25 @@
-<div class="grid grid-top wrapper gutter-2 pad-t pad-b-1-2">
-  <div class="unit [ xs-1 s-1 m-1 l-1-2 xl-1-2 ] "><!--empty div to keep grid  --></div>
-  <div class="unit [ xs-1 s-1 m-1 l-1-2 xl-1-2 ] push-l">
-    <a id="" href="#banner">
-      <span id="arrow-up"></span>
-    </a>
+<section class="wrapper arrow-section">
+  <div class="grid grid-top pad-t pad-b-1-2">
+    <div class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 xl-1-2 ] ">
+      <div class="inline text-right">
+        <a class="nano mail-to link-box" href="/{{page.lang}}/{{site.data.page-index[page.lang].casestudy}}/{{page.previous-case}}/">{{site.data.page-index[page.lang].previous-case}}</a>
+      </div>
+    </div>
+    <div class="unit [ xs-1-2 s-1-2 m-1-2 l-1-2 xl-1-2 ]">
+      <div class="grid">
+        <div class="unit xs-1-3 s-1-3 m-1-3 l-1-3">
+          <a href="#banner">
+            <span id="arrow-up"></span>
+          </a>
+        </div>
+        <div class="unit xs-1-3 s-1-3 m-1-3 l-1-3"><!--Empty div for grid--></div>
+        <div class="unit xs-1-3 s-1-3 m-1-3 l-1-3 text-right">
+          <div class="inline ">
+            <a class="nano mail-to link-box" href="/{{page.lang}}/{{site.data.page-index[page.lang].casestudy}}/{{page.next-case}}/">{{site.data.page-index[page.lang].next-case}}</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
+
+</section>

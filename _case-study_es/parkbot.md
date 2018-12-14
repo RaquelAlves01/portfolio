@@ -9,6 +9,9 @@ image: parkbot.png
 dateCreated: 2018-11-23
 keyWords: aplicacion, estacionamiento, automatico, intuitivo, accessible, acessibilidad, ahora tiempo, alves, diseño
 
+next-case: slide
+previous-case: making-thru
+
 caseImg: bg-div-img-01-case-1
 caseImg02: bg-div-img-02-case-1
 caseImg03: bg-div-img-03-case-1
