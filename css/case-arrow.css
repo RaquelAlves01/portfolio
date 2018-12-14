@@ -1,4 +1,5 @@
-#arrow-container { height: 15px; width: 15px; transition: all 100ms linear; display: inline-block; -web-transition: all linear 100ms; -moz-transition: all linear 100ms; animation: bounce 1600ms linear alternate infinite;}
+#arrow-container { height: 15px; width: 15px; transition: all 100ms linear; display: inline-block; -web-transition: all linear 100ms; -moz-transition: all linear 100ms; animation: bounce 2000ms linear alternate infinite;}
 #arrow { border: solid #D8D3AD; border-width: 0 3px 3px 0; display: inline-block; padding: .3em; transform: rotate(45deg);}
-#arrow:hover { border: solid #DA3363; border-width: 0 3px 3px 0; display: inline-block; padding: .3em;}
+.arrow-div:hover #arrow, #arrow-up:hover { border: solid #DA3363; border-width: 0 3px 3px 0; display: inline-block; padding: .3em;}
 @keyframes bounce { 0% {transform: translateY(-80px);} 50% { transform: translateY(-30px);} 100% { transform: translateY(-80px);}}
+#arrow-up { border: solid #D8D3AD; border-width: 0 3px 3px 0; display: inline-block; padding: .3em; transform: rotate(-135deg); margin-top: 1em; margin-left: .5em;}

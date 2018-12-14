@@ -24,23 +24,23 @@
 @media only screen and (min-width: 38em) {
 /* caseBackground img */
   /* caseOne */
-.bg-div-img-01-case-1 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-02-case-1 {background-position: center center; background-attachment: fixed; height: 80vh;}
+.bg-div-img-01-case-1 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-02-case-1 {background-position: center center; background-attachment: fixed; height: 100vh;}
 /* caseTwo */
-.bg-div-img-01-case-2 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-02-case-2 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-03-case-2 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-04-case-2 {background-position: top center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-05-case-2 {background-position: top center; background-attachment: fixed; height: 80vh;}
+.bg-div-img-01-case-2 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-02-case-2 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-03-case-2 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-04-case-2 {background-position: top center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-05-case-2 {background-position: top center; background-attachment: fixed; height: 100vh;}
 
 /* caseThree */
-.bg-div-img-01-case-3 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-02-case-3 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-03-case-3 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-04-case-3 {background-position: center center; background-attachment: fixed; height: 80vh;}
+.bg-div-img-01-case-3 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-02-case-3 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-03-case-3 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-04-case-3 {background-position: center center; background-attachment: fixed; height: 100vh;}
 /* caseFour */
-.bg-div-img-01-case-4 {background-position: center center; background-attachment: fixed; height: 80vh;}
-.bg-div-img-02-case-4 {background-position: center center; background-attachment: fixed; height: 60vh;}
-.bg-div-img-03-case-4 {background-position: center center; background-attachment: fixed; height: 60vh;}
-.bg-div-img-04-case-4 {background-position: top; background-attachment: fixed; height: 60vh;}
+.bg-div-img-01-case-4 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-02-case-4 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-03-case-4 {background-position: center center; background-attachment: fixed; height: 100vh;}
+.bg-div-img-04-case-4 {background-position: top; background-attachment: fixed; height: 100vh;}
 }
