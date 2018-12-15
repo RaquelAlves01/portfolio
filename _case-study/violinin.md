@@ -9,7 +9,7 @@ image: violinin.png
 dateCreated: 2018-11-23
 keyWords: app, kids app, learning, musical, music app, accessibility, Monsieur McCat, kids friendly, alves, design
 
-next-case: violion
+next-case: making-thru
 previous-case: slide
 
 caseImg: bg-div-img-01-case-3
