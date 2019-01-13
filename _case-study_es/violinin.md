@@ -10,7 +10,7 @@ dateCreated: 2018-11-23
 keyWords: aplicacion, aplicacion infantil, apredizaje, musical, aplicacion musical, acesibilidade, Monsieur McCat, para niño, alves, diseño
 
 next-case: making-thru
-previous-case: slide
+previous-case: SLiDE
 
 caseImg: bg-div-img-01-case-3
 caseImg02: bg-div-img-02-case-3

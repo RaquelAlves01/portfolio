@@ -10,7 +10,7 @@ dateCreated: 2018-11-23
 keyWords: aplicativo, aplicativo infantil, apredizagem, musical, aplicativo musical, acessibilidade, Monsieur McCat, para crianças, alves, desenho
 
 next-case: making-thru
-previous-case: slide
+previous-case: SLiDE
 
 caseImg: bg-div-img-01-case-3
 caseImg02: bg-div-img-02-case-3
