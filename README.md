@@ -10,7 +10,7 @@ I had the opportunity to have travelled the world and I had the great pleasure o
 
 
 
-- ** [hello@raquelalves.ca](mailto:hello@raquelalves.ca)
+- ** [kellieira@gmail.com](mailto:kellieira@gmail.com)
 - [Github](https://github.com/raquelalves01)
 - [Behance](https://www.behance.net/alve002635ca)
 
